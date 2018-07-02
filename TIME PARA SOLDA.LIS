@@ -1,0 +1,17 @@
+AutoECO Report
+FILE-A: F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+FILE-B: F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding component U4
+Deleting U2.7 from net GND
+Deleting U2.5 from net GND
+Adding U4.14 to net GND
+Adding U2.14 to net GND
+Adding U4.5 to net GND
+Deleting R8.2 from net N01412
+Adding R8.1 to net N01412
+Deleting R8.1 from net N01491
+Adding R8.2 to net N01491
+Adding U4.7 to net VSS
+Adding U2.7 to net VSS
+Deleting net VDD

@@ -1,0 +1,6 @@
+time para solda ponto 
+220v
+5s 
+para uso com rele
+
+12/03/2003

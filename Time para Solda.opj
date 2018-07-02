@@ -1,0 +1,149 @@
+(ExpressProject "Time para Solda"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB - PSpice")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "G:\CAPTURE\LIBRARY\PSPICE\analog.olb"
+        (Type "Schematic Library"))
+      (File "G:\CAPTURE\LIBRARY\PSPICE\source.olb"
+        (Type "Schematic Library"))
+      (File "G:\CAPTURE\LIBRARY\PSPICE\sourcstm.olb"
+        (Type "Schematic Library"))
+      (File "G:\CAPTURE\LIBRARY\PSPICE\special.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\time para solda.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "TRUE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Report_File
+       "D:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.DRC")
+    (Netlist_TAB "5")
+    (LAYOUT_Netlist_File
+       "D:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (TRUE)
+    (LAYOUT_Units "0")
+    (TRUE))
+  (Folder "Outputs"
+    (File ".\time para solda.drc"
+      (Type "Report"))
+    (File ".\time para solda.mnl"
+      (Type "LAYOUT Netlist File")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName "D:\MEUS DOCUMENTOS\TEMPLATE\BIBLIOTECA.OLB")
+      (DeviceIndex "0"))
+    ("SW KEY-Y1011"
+      (FullPartName "SW KEY-Y1011.Normal")
+      (LibraryName "F:\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (IAC
+      (FullPartName "IAC.Normal")
+      (LibraryName "F:\ORCAD\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (1N4617
+      (FullPartName "1N4617.Normal")
+      (LibraryName "F:\ORCAD\CAPTURE\LIBRARY\PSPICE\DIODE.OLB")
+      (DeviceIndex "0"))
+    ("TRNSFMR T2104"
+      (FullPartName "TRNSFMR T2104.Normal")
+      (LibraryName "F:\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (SENS59070-SPST
+      (FullPartName "SENS59070-SPST.Normal")
+      (LibraryName "F:\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("RF DPDT"
+      (FullPartName "RF DPDT.Normal")
+      (LibraryName "F:\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (FUSE/LF
+      (FullPartName "FUSE/LF.Normal")
+      (LibraryName "F:\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (DK1A1B-DPST
+      (FullPartName "DK1A1B-DPST.Normal")
+      (LibraryName "F:\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (154ANS
+      (FullPartName "154ANS.Normal")
+      (LibraryName "F:\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (L
+      (FullPartName "L.Normal")
+      (LibraryName "F:\ORCAD\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    ("RESISTOR VAR"
+      (FullPartName "RESISTOR VAR.Normal")
+      (LibraryName "D:\MEUS DOCUMENTOS\TEMPLATE\BIBLIOTECA.OLB")
+      (DeviceIndex "0"))
+    ("DIODE ZENER1"
+      (FullPartName "DIODE ZENER1.Normal")
+      (LibraryName "G:\CAPTURE\LIBRARY\OLDLIBS\LAYOUT.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "D:\MEUS DOCUMENTOS\TEMPLATE\BIBLIOTECA.OLB")
+      (DeviceIndex "0"))
+    ("CAPACITOR POL"
+      (FullPartName "CAPACITOR POL.Normal")
+      (LibraryName "D:\MEUS DOCUMENTOS\TEMPLATE\BIBLIOTECA.OLB")
+      (DeviceIndex "0"))
+    ("GTO A1A2G"
+      (FullPartName "GTO A1A2G.Normal")
+      (LibraryName "G:\CAPTURE\LIBRARY\OLDLIBS\LAYOUT.OLB")
+      (DeviceIndex "0"))
+    (IPRINT
+      (FullPartName "IPRINT.Normal")
+      (LibraryName "G:\CAPTURE\LIBRARY\PSPICE\SPECIAL.OLB")
+      (DeviceIndex "0"))
+    (MOC3011
+      (FullPartName "MOC3011.Normal")
+      (LibraryName "G:\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory "F:\OrCAD\CAPTURE\LIBRARY\PSPICE")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 0 200 0 293"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -30 44 910 58 491")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "E:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Time")))
+  (MPSSessionName "Raul"))

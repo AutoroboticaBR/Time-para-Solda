@@ -1,0 +1,1595 @@
+Wed Mar 12 19:53:24 Saved as file D:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Wed Mar 12 19:53:24 Saved as file BACKUP1.MAX
+Wed Mar 12 19:53:24 Saved as file D:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Wed Mar 12 19:53:25 UserDiv from Layout.INI for AutoECO: 60
+Wed Mar 12 19:53:25 Loaded file D:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Wed Mar 12 19:53:25 Loaded file D:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Wed Mar 12 19:53:26 Loaded file g:\Layout_Plus\library\BCON100T.llb
+Wed Mar 12 19:53:26 Loaded file g:\Layout_Plus\library\BCON156T.llb
+Wed Mar 12 19:53:26 Loaded file g:\Layout_Plus\library\BGA.llb
+Wed Mar 12 19:53:26 Loaded file g:\Layout_Plus\library\CLCC.llb
+Wed Mar 12 19:53:26 Loaded file g:\Layout_Plus\library\DCON050T.llb
+Wed Mar 12 19:53:26 Loaded file g:\Layout_Plus\library\DCON085T.llb
+Wed Mar 12 19:53:26 Loaded file g:\Layout_Plus\library\DIMM050F.llb
+Wed Mar 12 19:53:26 Loaded file g:\Layout_Plus\library\DIMM050T.llb
+Wed Mar 12 19:53:27 Loaded file g:\Layout_Plus\library\DIN.llb
+Wed Mar 12 19:53:27 Loaded file g:\Layout_Plus\library\DIP100B.llb
+Wed Mar 12 19:53:27 Loaded file g:\Layout_Plus\library\DIP100T.llb
+Wed Mar 12 19:53:27 Loaded file g:\Layout_Plus\library\DSUBT.llb
+Wed Mar 12 19:53:27 Loaded file g:\Layout_Plus\library\DSUBT_HD.LLB
+Wed Mar 12 19:53:27 Loaded file g:\Layout_Plus\library\ECON100T.llb
+Wed Mar 12 19:53:27 Loaded file g:\Layout_Plus\library\FBUS.llb
+Wed Mar 12 19:53:27 Loaded file g:\Layout_Plus\library\ISA.llb
+Wed Mar 12 19:53:27 Loaded file g:\Layout_Plus\library\JUMPER.LLB
+Wed Mar 12 19:53:27 Loaded file g:\Layout_Plus\library\LAYOUT.llb
+Wed Mar 12 19:53:27 Loaded file g:\Layout_Plus\library\LCON100T.llb
+Wed Mar 12 19:53:27 Loaded file g:\Layout_Plus\library\PC104.llb
+Wed Mar 12 19:53:27 Loaded file g:\Layout_Plus\library\PCI.llb
+Wed Mar 12 19:53:28 Loaded file g:\Layout_Plus\library\PCON100T.llb
+Wed Mar 12 19:53:28 Loaded file g:\Layout_Plus\library\PCON156T.llb
+Wed Mar 12 19:53:28 Loaded file g:\Layout_Plus\library\PGA.llb
+Wed Mar 12 19:53:28 Loaded file g:\Layout_Plus\library\PLCC.llb
+Wed Mar 12 19:53:28 Loaded file g:\Layout_Plus\library\QUAD.llb
+Wed Mar 12 19:53:28 Loaded file g:\Layout_Plus\library\QUADB.llb
+Wed Mar 12 19:53:29 Loaded file g:\Layout_Plus\library\RELAY.llb
+Wed Mar 12 19:53:29 Loaded file g:\Layout_Plus\library\RF.llb
+Wed Mar 12 19:53:29 Loaded file g:\Layout_Plus\library\SBUS.llb
+Wed Mar 12 19:53:29 Loaded file g:\Layout_Plus\library\SIMM050F.llb
+Wed Mar 12 19:53:29 Loaded file g:\Layout_Plus\library\SIMM050T.llb
+Wed Mar 12 19:53:29 Loaded file g:\Layout_Plus\library\SIMM100F.llb
+Wed Mar 12 19:53:29 Loaded file g:\Layout_Plus\library\SIMM100T.llb
+Wed Mar 12 19:53:29 Loaded file g:\Layout_Plus\library\SIP.llb
+Wed Mar 12 19:53:29 Loaded file g:\Layout_Plus\library\SM.llb
+Wed Mar 12 19:53:29 Loaded file g:\Layout_Plus\library\SOG.llb
+Wed Mar 12 19:53:29 Loaded file g:\Layout_Plus\library\SOJ.llb
+Wed Mar 12 19:53:30 Loaded file g:\Layout_Plus\library\STIFF.llb
+Wed Mar 12 19:53:30 Loaded file g:\Layout_Plus\library\TELE.llb
+Wed Mar 12 19:53:30 Loaded file g:\Layout_Plus\library\TM_AXIAL.llb
+Wed Mar 12 19:53:30 Loaded file g:\Layout_Plus\library\TM_CAP_P.llb
+Wed Mar 12 19:53:30 Loaded file g:\Layout_Plus\library\TM_CYLND.llb
+Wed Mar 12 19:53:30 Loaded file g:\Layout_Plus\library\TM_DIODE.llb
+Wed Mar 12 19:53:30 Loaded file g:\Layout_Plus\library\TM_DISC.llb
+Wed Mar 12 19:53:30 Loaded file g:\Layout_Plus\library\TM_RAD.llb
+Wed Mar 12 19:53:30 Loaded file g:\Layout_Plus\library\TO.llb
+Wed Mar 12 19:53:31 Loaded file g:\Layout_Plus\library\TRAINING.LLB
+Wed Mar 12 19:53:31 Loaded file g:\Layout_Plus\library\VRES.llb
+Wed Mar 12 19:53:31 Loaded file g:\Layout_Plus\library\WCON100T.llb
+Wed Mar 12 19:53:31 Loaded file g:\Layout_Plus\library\XT.llb
+Wed Mar 12 19:53:31 Loaded file g:\Layout_Plus\library\ZIGZAG.llb
+Wed Mar 12 19:53:31 Loaded file D:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Wed Mar 12 19:53:31 Saved as file D:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Wed Mar 12 19:53:31 Loaded file D:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Wed Mar 12 19:54:57 Saved as file D:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Wed Mar 12 19:54:57 Saved as file BACKUP1.MAX
+Wed Mar 12 19:54:57 Saved as file D:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Wed Mar 12 19:54:58 UserDiv from Layout.INI for AutoECO: 60
+Wed Mar 12 19:54:58 Loaded file D:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Wed Mar 12 19:54:58 Loaded file D:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Wed Mar 12 19:54:58 Loaded file g:\Layout_Plus\library\BCON100T.llb
+Wed Mar 12 19:54:58 Loaded file g:\Layout_Plus\library\BCON156T.llb
+Wed Mar 12 19:54:58 Loaded file g:\Layout_Plus\library\BGA.llb
+Wed Mar 12 19:54:58 Loaded file g:\Layout_Plus\library\CLCC.llb
+Wed Mar 12 19:54:58 Loaded file g:\Layout_Plus\library\DCON050T.llb
+Wed Mar 12 19:54:58 Loaded file g:\Layout_Plus\library\DCON085T.llb
+Wed Mar 12 19:54:58 Loaded file g:\Layout_Plus\library\DIMM050F.llb
+Wed Mar 12 19:54:58 Loaded file g:\Layout_Plus\library\DIMM050T.llb
+Wed Mar 12 19:54:58 Loaded file g:\Layout_Plus\library\DIN.llb
+Wed Mar 12 19:54:58 Loaded file g:\Layout_Plus\library\DIP100B.llb
+Wed Mar 12 19:54:58 Loaded file g:\Layout_Plus\library\DIP100T.llb
+Wed Mar 12 19:54:58 Loaded file g:\Layout_Plus\library\DSUBT.llb
+Wed Mar 12 19:54:58 Loaded file g:\Layout_Plus\library\DSUBT_HD.LLB
+Wed Mar 12 19:54:58 Loaded file g:\Layout_Plus\library\ECON100T.llb
+Wed Mar 12 19:54:58 Loaded file g:\Layout_Plus\library\FBUS.llb
+Wed Mar 12 19:54:58 Loaded file g:\Layout_Plus\library\ISA.llb
+Wed Mar 12 19:54:58 Loaded file g:\Layout_Plus\library\JUMPER.LLB
+Wed Mar 12 19:54:58 Loaded file g:\Layout_Plus\library\LAYOUT.llb
+Wed Mar 12 19:54:58 Loaded file g:\Layout_Plus\library\LCON100T.llb
+Wed Mar 12 19:54:58 Loaded file g:\Layout_Plus\library\PC104.llb
+Wed Mar 12 19:54:58 Loaded file g:\Layout_Plus\library\PCI.llb
+Wed Mar 12 19:54:58 Loaded file g:\Layout_Plus\library\PCON100T.llb
+Wed Mar 12 19:54:58 Loaded file g:\Layout_Plus\library\PCON156T.llb
+Wed Mar 12 19:54:58 Loaded file g:\Layout_Plus\library\PGA.llb
+Wed Mar 12 19:54:58 Loaded file g:\Layout_Plus\library\PLCC.llb
+Wed Mar 12 19:54:59 Loaded file g:\Layout_Plus\library\QUAD.llb
+Wed Mar 12 19:54:59 Loaded file g:\Layout_Plus\library\QUADB.llb
+Wed Mar 12 19:54:59 Loaded file g:\Layout_Plus\library\RELAY.llb
+Wed Mar 12 19:54:59 Loaded file g:\Layout_Plus\library\RF.llb
+Wed Mar 12 19:54:59 Loaded file g:\Layout_Plus\library\SBUS.llb
+Wed Mar 12 19:54:59 Loaded file g:\Layout_Plus\library\SIMM050F.llb
+Wed Mar 12 19:54:59 Loaded file g:\Layout_Plus\library\SIMM050T.llb
+Wed Mar 12 19:54:59 Loaded file g:\Layout_Plus\library\SIMM100F.llb
+Wed Mar 12 19:54:59 Loaded file g:\Layout_Plus\library\SIMM100T.llb
+Wed Mar 12 19:54:59 Loaded file g:\Layout_Plus\library\SIP.llb
+Wed Mar 12 19:54:59 Loaded file g:\Layout_Plus\library\SM.llb
+Wed Mar 12 19:54:59 Loaded file g:\Layout_Plus\library\SOG.llb
+Wed Mar 12 19:54:59 Loaded file g:\Layout_Plus\library\SOJ.llb
+Wed Mar 12 19:54:59 Loaded file g:\Layout_Plus\library\STIFF.llb
+Wed Mar 12 19:54:59 Loaded file g:\Layout_Plus\library\TELE.llb
+Wed Mar 12 19:54:59 Loaded file g:\Layout_Plus\library\TM_AXIAL.llb
+Wed Mar 12 19:54:59 Loaded file g:\Layout_Plus\library\TM_CAP_P.llb
+Wed Mar 12 19:54:59 Loaded file g:\Layout_Plus\library\TM_CYLND.llb
+Wed Mar 12 19:54:59 Loaded file g:\Layout_Plus\library\TM_DIODE.llb
+Wed Mar 12 19:54:59 Loaded file g:\Layout_Plus\library\TM_DISC.llb
+Wed Mar 12 19:54:59 Loaded file g:\Layout_Plus\library\TM_RAD.llb
+Wed Mar 12 19:54:59 Loaded file g:\Layout_Plus\library\TO.llb
+Wed Mar 12 19:55:00 Loaded file g:\Layout_Plus\library\TRAINING.LLB
+Wed Mar 12 19:55:00 Loaded file g:\Layout_Plus\library\VRES.llb
+Wed Mar 12 19:55:00 Loaded file g:\Layout_Plus\library\WCON100T.llb
+Wed Mar 12 19:55:00 Loaded file g:\Layout_Plus\library\XT.llb
+Wed Mar 12 19:55:00 Loaded file g:\Layout_Plus\library\ZIGZAG.llb
+Wed Mar 12 19:55:00 Loaded file D:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Wed Mar 12 19:55:00 Library file not found:USER.PRT
+Wed Mar 12 19:55:00 Library file not found:USER.PRT
+Wed Mar 12 19:55:07 Loaded file G:\LAYOUT_PLUS\data\template.imp
+Wed Mar 12 19:55:07 Loaded file G:\LAYOUT_PLUS\data\template.imp
+Wed Mar 12 19:55:12 Loaded file D:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Wed Mar 12 19:55:14 Loaded file G:\LAYOUT_PLUS\data\template.imp
+Wed Mar 12 19:55:17 Loaded file G:\LAYOUT_PLUS\data\template.imp
+Wed Mar 12 19:55:18 Loaded file G:\LAYOUT_PLUS\data\template.imp
+Wed Mar 12 19:55:20 Loaded file D:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Wed Mar 12 19:55:20 Loaded file D:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Wed Mar 12 19:55:20 Loaded file D:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Wed Mar 12 19:55:20 Loaded file D:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Wed Mar 12 19:55:20 Loaded file D:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Wed Mar 12 19:55:20 Loaded file D:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Wed Mar 12 19:55:20 Saved as file D:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Wed Mar 12 19:55:20 Loaded file D:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Wed Mar 12 19:57:59 Loaded file g:\Layout_Plus\data\template.imp
+Wed Mar 12 19:57:59 Loaded file g:\Layout_Plus\data\template.imp
+Wed Mar 12 19:57:59 Loaded file g:\Layout_Plus\data\template.imp
+Wed Mar 12 19:57:59 Loaded file g:\Layout_Plus\data\template.imp
+Wed Mar 12 19:58:01 Loaded file D:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Wed Mar 12 19:58:03 Loaded file g:\Layout_Plus\data\template.imp
+Wed Mar 12 19:58:11 Loaded file g:\Layout_Plus\data\template.imp
+Wed Mar 12 19:58:11 Loaded file g:\Layout_Plus\data\template.imp
+Wed Mar 12 19:58:12 Loaded file g:\Layout_Plus\data\template.imp
+Wed Mar 12 19:58:12 Loaded file g:\Layout_Plus\data\template.imp
+Wed Mar 12 19:58:13 Loaded file g:\Layout_Plus\data\template.imp
+Wed Mar 12 19:59:17 Saved as file D:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Wed Mar 12 20:06:27 Loaded file g:\Layout_Plus\data\template.imp
+Wed Mar 12 20:06:27 Loaded file g:\Layout_Plus\data\template.imp
+Wed Mar 12 20:06:27 Loaded file g:\Layout_Plus\data\template.imp
+Wed Mar 12 20:06:27 Loaded file g:\Layout_Plus\data\template.imp
+Wed Mar 12 20:06:29 Loaded file D:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Wed Mar 12 20:06:30 Loaded file g:\Layout_Plus\data\template.imp
+Wed Mar 12 20:06:33 Loaded file g:\Layout_Plus\data\template.imp
+Wed Mar 12 20:06:37 Saved as file BACKUP1.MAX
+Wed Mar 12 20:09:18 Saved as file BACKUP1.MAX
+Wed Mar 12 20:09:18 No new connections routed.
+Wed Mar 12 20:09:18 Total is now 0 out of 25 (0%).
+Wed Mar 12 20:09:18 Saved as file SWEEP1.MAX
+Wed Mar 12 20:09:30 Saved as file BACKUP1.MAX
+Wed Mar 12 20:09:30 Routed 4 connections in 11 seconds.
+Wed Mar 12 20:09:30 Total is now 4 out of 25 (16%).
+Wed Mar 12 20:09:30 Saved as file SWEEP2.MAX
+Wed Mar 12 20:10:30 Routed 6 connections in 7 seconds.
+Wed Mar 12 20:10:30 Total is now 11 out of 25 (44%).
+Wed Mar 12 20:10:30 Saved as file SWEEP3.MAX
+Wed Mar 12 20:11:17 Saved as file D:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Wed Mar 12 20:11:24 No new connections routed.
+Wed Mar 12 20:11:24 Total is now 0 out of 25 (0%).
+Wed Mar 12 20:11:24 Saved as file SWEEP1.MAX
+Wed Mar 12 20:11:29 Saved as file BACKUP1.MAX
+Wed Mar 12 20:11:29 Routed 18 connections in 5 seconds.
+Wed Mar 12 20:11:29 Total is now 18 out of 25 (72%).
+Wed Mar 12 20:11:29 Saved as file SWEEP2.MAX
+Wed Mar 12 20:11:38 Routed 4 connections in 9 seconds.
+Wed Mar 12 20:11:38 Total is now 22 out of 25 (88%).
+Wed Mar 12 20:11:38 Saved as file SWEEP3.MAX
+Wed Mar 12 20:13:47 Saved as file D:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Wed Mar 12 20:18:10 Saved as file D:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Wed Mar 12 20:28:32 Saved as file D:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Wed Mar 12 20:29:02 Saved as file BACKUP1.MAX
+Wed Mar 12 20:30:45 Saved as file D:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Wed Mar 12 20:30:48 Loaded file g:\Layout_Plus\data\template.imp
+Wed Mar 12 20:30:48 Loaded file g:\Layout_Plus\data\template.imp
+Wed Mar 12 20:41:16 Saved as file D:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Wed Mar 12 20:43:06 Loaded file g:\Layout_Plus\data\template.imp
+Wed Mar 12 20:43:06 Loaded file g:\Layout_Plus\data\template.imp
+Wed Mar 12 20:43:25 Loaded file g:\Layout_Plus\data\template.imp
+Wed Mar 12 20:43:25 Loaded file g:\Layout_Plus\data\template.imp
+Wed Mar 12 20:52:33 Saved as file BACKUP1.MAX
+Sun May 04 21:37:35 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sun May 04 21:37:35 Saved as file BACKUP1.MAX
+Sun May 04 21:37:35 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sun May 04 21:37:36 UserDiv from Layout.INI for AutoECO: 60
+Sun May 04 21:37:36 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sun May 04 21:37:36 Loaded file F:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Sun May 04 21:37:36 Loaded file f:\OrCAD\Layout_Eng_Ed\library\BCON100T.llb
+Sun May 04 21:37:36 Loaded file f:\OrCAD\Layout_Eng_Ed\library\BCON156T.llb
+Sun May 04 21:37:38 Loaded file f:\OrCAD\Layout_Eng_Ed\library\BGA.llb
+Sun May 04 21:37:38 Loaded file f:\OrCAD\Layout_Eng_Ed\library\CLCC.llb
+Sun May 04 21:37:38 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DCON050T.llb
+Sun May 04 21:37:38 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DCON085T.llb
+Sun May 04 21:37:38 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DIMM050F.llb
+Sun May 04 21:37:38 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DIMM050T.llb
+Sun May 04 21:37:38 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DIN.llb
+Sun May 04 21:37:38 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DIP100B.llb
+Sun May 04 21:37:38 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DIP100T.llb
+Sun May 04 21:37:38 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DSUBT.llb
+Sun May 04 21:37:38 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DSUBT_HD.LLB
+Sun May 04 21:37:39 Loaded file f:\OrCAD\Layout_Eng_Ed\library\ECON100T.llb
+Sun May 04 21:37:39 Loaded file f:\OrCAD\Layout_Eng_Ed\library\FBUS.llb
+Sun May 04 21:37:39 Loaded file f:\OrCAD\Layout_Eng_Ed\library\ISA.llb
+Sun May 04 21:37:39 Loaded file f:\OrCAD\Layout_Eng_Ed\library\JUMPER.LLB
+Sun May 04 21:37:39 Loaded file f:\OrCAD\Layout_Eng_Ed\library\LAYOUT.llb
+Sun May 04 21:37:39 Loaded file f:\OrCAD\Layout_Eng_Ed\library\LCON100T.llb
+Sun May 04 21:37:39 Loaded file f:\OrCAD\Layout_Eng_Ed\library\PC104.llb
+Sun May 04 21:37:39 Loaded file f:\OrCAD\Layout_Eng_Ed\library\PCI.llb
+Sun May 04 21:37:39 Loaded file f:\OrCAD\Layout_Eng_Ed\library\PCON100T.llb
+Sun May 04 21:37:39 Loaded file f:\OrCAD\Layout_Eng_Ed\library\PCON156T.llb
+Sun May 04 21:37:40 Loaded file f:\OrCAD\Layout_Eng_Ed\library\PGA.llb
+Sun May 04 21:37:40 Loaded file f:\OrCAD\Layout_Eng_Ed\library\PLCC.llb
+Sun May 04 21:37:41 Loaded file f:\OrCAD\Layout_Eng_Ed\library\QUAD.llb
+Sun May 04 21:37:41 Loaded file f:\OrCAD\Layout_Eng_Ed\library\QUADB.llb
+Sun May 04 21:37:42 Loaded file f:\OrCAD\Layout_Eng_Ed\library\RELAY.llb
+Sun May 04 21:37:42 Loaded file f:\OrCAD\Layout_Eng_Ed\library\RF.llb
+Sun May 04 21:37:42 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SBUS.llb
+Sun May 04 21:37:42 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SIMM050F.llb
+Sun May 04 21:37:43 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SIMM050T.llb
+Sun May 04 21:37:43 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SIMM100F.llb
+Sun May 04 21:37:43 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SIMM100T.llb
+Sun May 04 21:37:43 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SIP.llb
+Sun May 04 21:37:44 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SM.llb
+Sun May 04 21:37:45 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SOG.llb
+Sun May 04 21:37:45 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SOJ.llb
+Sun May 04 21:37:45 Loaded file f:\OrCAD\Layout_Eng_Ed\library\STIFF.llb
+Sun May 04 21:37:45 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TELE.llb
+Sun May 04 21:37:46 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TM_AXIAL.llb
+Sun May 04 21:37:46 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TM_CAP_P.llb
+Sun May 04 21:37:46 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TM_CYLND.llb
+Sun May 04 21:37:46 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TM_DIODE.llb
+Sun May 04 21:37:47 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TM_DISC.llb
+Sun May 04 21:37:47 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TM_RAD.llb
+Sun May 04 21:37:47 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TO.llb
+Sun May 04 21:37:48 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TRAINING.LLB
+Sun May 04 21:37:48 Loaded file f:\OrCAD\Layout_Eng_Ed\library\VRES.llb
+Sun May 04 21:37:48 Loaded file f:\OrCAD\Layout_Eng_Ed\library\WCON100T.llb
+Sun May 04 21:37:48 Loaded file f:\OrCAD\Layout_Eng_Ed\library\XT.llb
+Sun May 04 21:37:48 Loaded file f:\OrCAD\Layout_Eng_Ed\library\ZIGZAG.llb
+Sun May 04 21:37:48 Loaded file F:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Sun May 04 21:37:49 Library file not found:USER.PRT
+Sun May 04 21:37:49 Library file not found:USER.PRT
+Sun May 04 21:38:37 Loaded file F:\ORCAD\LAYOUT_ENG_ED\data\template.imp
+Sun May 04 21:38:37 Loaded file F:\ORCAD\LAYOUT_ENG_ED\data\template.imp
+Sun May 04 21:38:41 Loaded file F:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Sun May 04 21:38:47 Loaded file F:\ORCAD\LAYOUT_ENG_ED\data\template.imp
+Sun May 04 21:38:48 Loaded file F:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Sun May 04 21:38:48 Loaded file F:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Sun May 04 21:38:48 Loaded file F:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Sun May 04 21:38:48 Loaded file F:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Sun May 04 21:38:48 Loaded file F:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Sun May 04 21:38:48 Loaded file F:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Sun May 04 21:38:48 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sun May 04 21:38:49 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sun May 04 21:39:37 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sun May 04 21:44:34 Error code 5200.306
+Sun May 04 21:44:34 Saved as file Backup0.max
+Sun May 04 21:44:34 Windows which were open at time of error:
+Sun May 04 21:44:34 	ActiveWindow: Library Manager
+Sun May 04 21:44:34 End-of-list
+Sun May 04 21:44:34 Loaded file BACKUP0.MAX
+Sun May 04 21:50:17 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sun May 04 21:50:17 Saved as file BACKUP1.MAX
+Sun May 04 21:50:17 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sun May 04 21:50:18 UserDiv from Layout.INI for AutoECO: 60
+Sun May 04 21:50:18 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sun May 04 21:50:18 Loaded file F:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Sun May 04 21:50:19 Loaded file f:\OrCAD\Layout_Eng_Ed\library\BCON100T.llb
+Sun May 04 21:50:19 Loaded file f:\OrCAD\Layout_Eng_Ed\library\BCON156T.llb
+Sun May 04 21:50:19 Loaded file f:\OrCAD\Layout_Eng_Ed\library\BGA.llb
+Sun May 04 21:50:19 Loaded file f:\OrCAD\Layout_Eng_Ed\library\CLCC.llb
+Sun May 04 21:50:20 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DCON050T.llb
+Sun May 04 21:50:20 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DCON085T.llb
+Sun May 04 21:50:20 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DIMM050F.llb
+Sun May 04 21:50:20 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DIMM050T.llb
+Sun May 04 21:50:20 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DIN.llb
+Sun May 04 21:50:20 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DIP100B.llb
+Sun May 04 21:50:20 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DIP100T.llb
+Sun May 04 21:50:20 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DSUBT.llb
+Sun May 04 21:50:20 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DSUBT_HD.LLB
+Sun May 04 21:50:20 Loaded file f:\OrCAD\Layout_Eng_Ed\library\ECON100T.llb
+Sun May 04 21:50:20 Loaded file f:\OrCAD\Layout_Eng_Ed\library\FBUS.llb
+Sun May 04 21:50:20 Loaded file f:\OrCAD\Layout_Eng_Ed\library\ISA.llb
+Sun May 04 21:50:21 Loaded file f:\OrCAD\Layout_Eng_Ed\library\JUMPER.LLB
+Sun May 04 21:50:21 Loaded file f:\OrCAD\Layout_Eng_Ed\library\LAYOUT.llb
+Sun May 04 21:50:21 Loaded file f:\OrCAD\Layout_Eng_Ed\library\LCON100T.llb
+Sun May 04 21:50:21 Loaded file f:\OrCAD\Layout_Eng_Ed\library\PC104.llb
+Sun May 04 21:50:21 Loaded file f:\OrCAD\Layout_Eng_Ed\library\PCI.llb
+Sun May 04 21:50:21 Loaded file f:\OrCAD\Layout_Eng_Ed\library\PCON100T.llb
+Sun May 04 21:50:21 Loaded file f:\OrCAD\Layout_Eng_Ed\library\PCON156T.llb
+Sun May 04 21:50:21 Loaded file f:\OrCAD\Layout_Eng_Ed\library\PGA.llb
+Sun May 04 21:50:22 Loaded file f:\OrCAD\Layout_Eng_Ed\library\PLCC.llb
+Sun May 04 21:50:22 Loaded file f:\OrCAD\Layout_Eng_Ed\library\QUAD.llb
+Sun May 04 21:50:22 Loaded file f:\OrCAD\Layout_Eng_Ed\library\QUADB.llb
+Sun May 04 21:50:22 Loaded file f:\OrCAD\Layout_Eng_Ed\library\RELAY.llb
+Sun May 04 21:50:23 Loaded file f:\OrCAD\Layout_Eng_Ed\library\RF.llb
+Sun May 04 21:50:23 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SBUS.llb
+Sun May 04 21:50:23 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SIMM050F.llb
+Sun May 04 21:50:23 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SIMM050T.llb
+Sun May 04 21:50:23 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SIMM100F.llb
+Sun May 04 21:50:23 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SIMM100T.llb
+Sun May 04 21:50:23 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SIP.llb
+Sun May 04 21:50:23 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SM.llb
+Sun May 04 21:50:23 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SOG.llb
+Sun May 04 21:50:24 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SOJ.llb
+Sun May 04 21:50:24 Loaded file f:\OrCAD\Layout_Eng_Ed\library\STIFF.llb
+Sun May 04 21:50:24 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TELE.llb
+Sun May 04 21:50:24 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TM_AXIAL.llb
+Sun May 04 21:50:24 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TM_CAP_P.llb
+Sun May 04 21:50:24 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TM_CYLND.llb
+Sun May 04 21:50:24 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TM_DIODE.llb
+Sun May 04 21:50:24 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TM_DISC.llb
+Sun May 04 21:50:24 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TM_RAD.llb
+Sun May 04 21:50:25 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TO.llb
+Sun May 04 21:50:25 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TRAINING.LLB
+Sun May 04 21:50:25 Loaded file f:\OrCAD\Layout_Eng_Ed\library\VRES.llb
+Sun May 04 21:50:25 Loaded file f:\OrCAD\Layout_Eng_Ed\library\WCON100T.llb
+Sun May 04 21:50:25 Loaded file f:\OrCAD\Layout_Eng_Ed\library\XT.llb
+Sun May 04 21:50:25 Loaded file f:\OrCAD\Layout_Eng_Ed\library\ZIGZAG.llb
+Sun May 04 21:50:25 Loaded file F:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Sun May 04 21:50:26 Loaded file F:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Sun May 04 21:50:26 Loaded file F:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Sun May 04 21:50:26 Loaded file F:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Sun May 04 21:50:26 Loaded file F:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Sun May 04 21:50:26 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DIP100T.llb
+Sun May 04 21:50:26 Loaded file F:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Sun May 04 21:50:26 Loaded file F:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Sun May 04 21:50:27 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sun May 04 21:50:27 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sun May 04 22:00:46 Saved as file BACKUP1.MAX
+Sun May 04 22:10:45 Saved as file BACKUP1.MAX
+Sun May 04 22:20:32 Saved as file BACKUP1.MAX
+Sun May 04 22:20:32 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sun May 04 22:20:33 UserDiv from Layout.INI for AutoECO: 60
+Sun May 04 22:20:33 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sun May 04 22:20:33 Loaded file F:\MEUS DOCUMENTOS\TEMPLATE\BLIBIO~1.LLB
+Sun May 04 22:20:33 Loaded file f:\OrCAD\Layout_Eng_Ed\library\BCON100T.llb
+Sun May 04 22:20:33 Loaded file f:\OrCAD\Layout_Eng_Ed\library\BCON156T.llb
+Sun May 04 22:20:34 Loaded file f:\OrCAD\Layout_Eng_Ed\library\BGA.llb
+Sun May 04 22:20:34 Loaded file f:\OrCAD\Layout_Eng_Ed\library\CLCC.llb
+Sun May 04 22:20:34 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DCON050T.llb
+Sun May 04 22:20:34 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DCON085T.llb
+Sun May 04 22:20:34 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DIMM050F.llb
+Sun May 04 22:20:34 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DIMM050T.llb
+Sun May 04 22:20:34 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DIN.llb
+Sun May 04 22:20:35 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DIP100B.llb
+Sun May 04 22:20:35 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DIP100T.llb
+Sun May 04 22:20:35 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DSUBT.llb
+Sun May 04 22:20:35 Loaded file f:\OrCAD\Layout_Eng_Ed\library\DSUBT_HD.LLB
+Sun May 04 22:20:35 Loaded file f:\OrCAD\Layout_Eng_Ed\library\ECON100T.llb
+Sun May 04 22:20:35 Loaded file f:\OrCAD\Layout_Eng_Ed\library\FBUS.llb
+Sun May 04 22:20:35 Loaded file f:\OrCAD\Layout_Eng_Ed\library\ISA.llb
+Sun May 04 22:20:35 Loaded file f:\OrCAD\Layout_Eng_Ed\library\JUMPER.LLB
+Sun May 04 22:20:35 Loaded file f:\OrCAD\Layout_Eng_Ed\library\LAYOUT.llb
+Sun May 04 22:20:35 Loaded file f:\OrCAD\Layout_Eng_Ed\library\LCON100T.llb
+Sun May 04 22:20:35 Loaded file f:\OrCAD\Layout_Eng_Ed\library\PC104.llb
+Sun May 04 22:20:35 Loaded file f:\OrCAD\Layout_Eng_Ed\library\PCI.llb
+Sun May 04 22:20:36 Loaded file f:\OrCAD\Layout_Eng_Ed\library\PCON100T.llb
+Sun May 04 22:20:36 Loaded file f:\OrCAD\Layout_Eng_Ed\library\PCON156T.llb
+Sun May 04 22:20:36 Loaded file f:\OrCAD\Layout_Eng_Ed\library\PGA.llb
+Sun May 04 22:20:36 Loaded file f:\OrCAD\Layout_Eng_Ed\library\PLCC.llb
+Sun May 04 22:20:36 Loaded file f:\OrCAD\Layout_Eng_Ed\library\QUAD.llb
+Sun May 04 22:20:37 Loaded file f:\OrCAD\Layout_Eng_Ed\library\QUADB.llb
+Sun May 04 22:20:37 Loaded file f:\OrCAD\Layout_Eng_Ed\library\RELAY.llb
+Sun May 04 22:20:37 Loaded file f:\OrCAD\Layout_Eng_Ed\library\RF.llb
+Sun May 04 22:20:37 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SBUS.llb
+Sun May 04 22:20:37 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SIMM050F.llb
+Sun May 04 22:20:37 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SIMM050T.llb
+Sun May 04 22:20:37 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SIMM100F.llb
+Sun May 04 22:20:37 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SIMM100T.llb
+Sun May 04 22:20:37 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SIP.llb
+Sun May 04 22:20:37 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SM.llb
+Sun May 04 22:20:38 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SOG.llb
+Sun May 04 22:20:38 Loaded file f:\OrCAD\Layout_Eng_Ed\library\SOJ.llb
+Sun May 04 22:20:38 Loaded file f:\OrCAD\Layout_Eng_Ed\library\STIFF.llb
+Sun May 04 22:20:38 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TELE.llb
+Sun May 04 22:20:38 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TM_AXIAL.llb
+Sun May 04 22:20:38 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TM_CAP_P.llb
+Sun May 04 22:20:38 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TM_CYLND.llb
+Sun May 04 22:20:38 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TM_DIODE.llb
+Sun May 04 22:20:38 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TM_DISC.llb
+Sun May 04 22:20:38 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TM_RAD.llb
+Sun May 04 22:20:39 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TO.llb
+Sun May 04 22:20:39 Loaded file f:\OrCAD\Layout_Eng_Ed\library\TRAINING.LLB
+Sun May 04 22:20:39 Loaded file f:\OrCAD\Layout_Eng_Ed\library\VRES.llb
+Sun May 04 22:20:39 Loaded file f:\OrCAD\Layout_Eng_Ed\library\WCON100T.llb
+Sun May 04 22:20:39 Loaded file f:\OrCAD\Layout_Eng_Ed\library\XT.llb
+Sun May 04 22:20:39 Loaded file f:\OrCAD\Layout_Eng_Ed\library\ZIGZAG.llb
+Sun May 04 22:20:40 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sun May 04 22:20:40 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sun May 04 22:20:41 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sun May 04 22:20:45 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sun May 04 22:20:46 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sun May 04 22:20:52 Error code 5200.306
+Sun May 04 22:20:53 Saved as file Backup0.max
+Sun May 04 22:20:53 Windows which were open at time of error:
+Sun May 04 22:20:53 	ActiveWindow: Library Manager
+Sun May 04 22:20:53 End-of-list
+Sun May 04 22:20:53 Loaded file BACKUP0.MAX
+Sun May 04 22:21:15 Saved as file BACKUP1.MAX
+Sun May 04 22:31:15 Saved as file BACKUP1.MAX
+Sun May 04 22:41:15 Saved as file BACKUP1.MAX
+Sat May 10 14:51:41 Saved as file BACKUP1.MAX
+Sat May 10 14:58:54 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 15:01:41 Saved as file BACKUP1.MAX
+Sat May 10 15:11:41 Saved as file BACKUP1.MAX
+Sat May 10 15:22:11 Saved as file BACKUP1.MAX
+Sat May 10 15:23:15 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 15:28:39 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 15:30:18 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 16:12:23 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 16:25:48 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 16:30:48 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 16:30:48 Loaded file f:\OrCAD\Layout_Plus\library\BCON100T.llb
+Sat May 10 16:30:48 Loaded file f:\OrCAD\Layout_Plus\library\BCON156T.llb
+Sat May 10 16:30:49 Loaded file f:\OrCAD\Layout_Plus\library\BGA.llb
+Sat May 10 16:30:49 Loaded file f:\OrCAD\Layout_Plus\library\CLCC.llb
+Sat May 10 16:30:49 Loaded file f:\OrCAD\Layout_Plus\library\DCON050T.llb
+Sat May 10 16:30:49 Loaded file f:\OrCAD\Layout_Plus\library\DCON085T.llb
+Sat May 10 16:30:49 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050F.llb
+Sat May 10 16:30:49 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050T.llb
+Sat May 10 16:30:49 Loaded file f:\OrCAD\Layout_Plus\library\DIN.llb
+Sat May 10 16:30:49 Loaded file f:\OrCAD\Layout_Plus\library\DIP100B.llb
+Sat May 10 16:30:49 Loaded file f:\OrCAD\Layout_Plus\library\DIP100T.llb
+Sat May 10 16:30:49 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT.llb
+Sat May 10 16:30:49 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 10 16:30:49 Loaded file f:\OrCAD\Layout_Plus\library\ECON100T.llb
+Sat May 10 16:30:49 Loaded file f:\OrCAD\Layout_Plus\library\FBUS.llb
+Sat May 10 16:30:49 Loaded file f:\OrCAD\Layout_Plus\library\ISA.llb
+Sat May 10 16:30:50 Loaded file f:\OrCAD\Layout_Plus\library\JUMPER.LLB
+Sat May 10 16:30:50 Loaded file f:\OrCAD\Layout_Plus\library\LAYOUT.llb
+Sat May 10 16:30:50 Loaded file f:\OrCAD\Layout_Plus\library\LCON100T.llb
+Sat May 10 16:30:50 Loaded file f:\OrCAD\Layout_Plus\library\PC104.llb
+Sat May 10 16:30:50 Loaded file f:\OrCAD\Layout_Plus\library\PCI.llb
+Sat May 10 16:30:50 Loaded file f:\OrCAD\Layout_Plus\library\PCON100T.llb
+Sat May 10 16:30:50 Loaded file f:\OrCAD\Layout_Plus\library\PCON156T.llb
+Sat May 10 16:30:50 Loaded file f:\OrCAD\Layout_Plus\library\PGA.llb
+Sat May 10 16:30:50 Loaded file f:\OrCAD\Layout_Plus\library\PLCC.llb
+Sat May 10 16:30:51 Loaded file f:\OrCAD\Layout_Plus\library\QUAD.llb
+Sat May 10 16:30:51 Loaded file f:\OrCAD\Layout_Plus\library\QUADB.llb
+Sat May 10 16:30:51 Loaded file f:\OrCAD\Layout_Plus\library\RELAY.llb
+Sat May 10 16:30:51 Loaded file f:\OrCAD\Layout_Plus\library\RF.llb
+Sat May 10 16:30:51 Loaded file f:\OrCAD\Layout_Plus\library\SBUS.llb
+Sat May 10 16:30:51 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050F.llb
+Sat May 10 16:30:51 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050T.llb
+Sat May 10 16:30:51 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100F.llb
+Sat May 10 16:30:51 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100T.llb
+Sat May 10 16:30:51 Loaded file f:\OrCAD\Layout_Plus\library\SIP.llb
+Sat May 10 16:30:51 Loaded file f:\OrCAD\Layout_Plus\library\SM.llb
+Sat May 10 16:30:52 Loaded file f:\OrCAD\Layout_Plus\library\SOG.llb
+Sat May 10 16:30:52 Loaded file f:\OrCAD\Layout_Plus\library\SOJ.llb
+Sat May 10 16:30:52 Loaded file f:\OrCAD\Layout_Plus\library\STIFF.llb
+Sat May 10 16:30:52 Loaded file f:\OrCAD\Layout_Plus\library\TELE.llb
+Sat May 10 16:30:52 Loaded file f:\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Sat May 10 16:30:52 Loaded file f:\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Sat May 10 16:30:52 Loaded file f:\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Sat May 10 16:30:52 Loaded file f:\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Sat May 10 16:30:53 Loaded file f:\OrCAD\Layout_Plus\library\TM_DISC.llb
+Sat May 10 16:30:53 Loaded file f:\OrCAD\Layout_Plus\library\TM_RAD.llb
+Sat May 10 16:30:53 Loaded file f:\OrCAD\Layout_Plus\library\TO.llb
+Sat May 10 16:30:53 Loaded file f:\OrCAD\Layout_Plus\library\TRAINING.LLB
+Sat May 10 16:30:53 Loaded file f:\OrCAD\Layout_Plus\library\VRES.llb
+Sat May 10 16:30:53 Loaded file f:\OrCAD\Layout_Plus\library\WCON100T.llb
+Sat May 10 16:30:53 Loaded file f:\OrCAD\Layout_Plus\library\XT.llb
+Sat May 10 16:30:53 Loaded file f:\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Sat May 10 16:31:02 Library file not found:USER.PRT
+Sat May 10 16:31:02 Library file not found:USER.PRT
+Sat May 10 16:31:07 Loaded file f:\OrCAD\Layout_Plus\data\template.imp
+Sat May 10 16:31:07 Loaded file f:\OrCAD\Layout_Plus\data\template.imp
+Sat May 10 16:31:13 Library file not found:USER.PRT
+Sat May 10 16:31:13 Library file not found:USER.PRT
+Sat May 10 16:31:14 Library file not found:USER.PRT
+Sat May 10 16:31:14 Library file not found:USER.PRT
+Sat May 10 16:31:14 Library file not found:USER.PRT
+Sat May 10 16:31:14 Library file not found:USER.PRT
+Sat May 10 16:31:14 Library file not found:USER.PRT
+Sat May 10 16:31:14 Library file not found:USER.PRT
+Sat May 10 16:31:15 Library file not found:USER.PRT
+Sat May 10 16:31:15 Library file not found:USER.PRT
+Sat May 10 16:31:15 Library file not found:USER.PRT
+Sat May 10 16:31:15 Library file not found:USER.PRT
+Sat May 10 16:31:15 Library file not found:USER.PRT
+Sat May 10 16:31:15 Library file not found:USER.PRT
+Sat May 10 16:31:15 Library file not found:USER.PRT
+Sat May 10 16:31:15 Library file not found:USER.PRT
+Sat May 10 16:31:15 Library file not found:USER.PRT
+Sat May 10 16:31:15 Library file not found:USER.PRT
+Sat May 10 16:31:16 Library file not found:USER.PRT
+Sat May 10 16:31:16 Library file not found:USER.PRT
+Sat May 10 16:31:16 Library file not found:USER.PRT
+Sat May 10 16:31:16 Library file not found:USER.PRT
+Sat May 10 16:31:16 Library file not found:USER.PRT
+Sat May 10 16:31:17 Library file not found:USER.PRT
+Sat May 10 16:31:17 Library file not found:USER.PRT
+Sat May 10 16:31:17 Library file not found:USER.PRT
+Sat May 10 16:31:17 Library file not found:USER.PRT
+Sat May 10 16:31:17 Library file not found:USER.PRT
+Sat May 10 16:31:18 Library file not found:USER.PRT
+Sat May 10 16:31:18 Library file not found:USER.PRT
+Sat May 10 16:31:18 Library file not found:USER.PRT
+Sat May 10 16:31:18 Library file not found:USER.PRT
+Sat May 10 16:31:58 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 16:31:58 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BLIBIO~1.LLB
+Sat May 10 16:31:58 Loaded file f:\OrCAD\Layout_Plus\library\BCON100T.llb
+Sat May 10 16:31:58 Loaded file f:\OrCAD\Layout_Plus\library\BCON156T.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\BGA.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\CLCC.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\DCON050T.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\DCON085T.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050F.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050T.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\DIN.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\DIP100B.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\DIP100T.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\ECON100T.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\FBUS.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\ISA.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\JUMPER.LLB
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\LAYOUT.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\LCON100T.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\PC104.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\PCI.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\PCON100T.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\PCON156T.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\PGA.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\PLCC.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\QUAD.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\QUADB.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\RELAY.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\RF.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\SBUS.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050F.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050T.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100F.llb
+Sat May 10 16:31:59 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100T.llb
+Sat May 10 16:32:00 Loaded file f:\OrCAD\Layout_Plus\library\SIP.llb
+Sat May 10 16:32:00 Loaded file f:\OrCAD\Layout_Plus\library\SM.llb
+Sat May 10 16:32:00 Loaded file f:\OrCAD\Layout_Plus\library\SOG.llb
+Sat May 10 16:32:00 Loaded file f:\OrCAD\Layout_Plus\library\SOJ.llb
+Sat May 10 16:32:00 Loaded file f:\OrCAD\Layout_Plus\library\STIFF.llb
+Sat May 10 16:32:00 Loaded file f:\OrCAD\Layout_Plus\library\TELE.llb
+Sat May 10 16:32:00 Loaded file f:\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Sat May 10 16:32:00 Loaded file f:\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Sat May 10 16:32:00 Loaded file f:\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Sat May 10 16:32:00 Loaded file f:\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Sat May 10 16:32:00 Loaded file f:\OrCAD\Layout_Plus\library\TM_DISC.llb
+Sat May 10 16:32:00 Loaded file f:\OrCAD\Layout_Plus\library\TM_RAD.llb
+Sat May 10 16:32:00 Loaded file f:\OrCAD\Layout_Plus\library\TO.llb
+Sat May 10 16:32:00 Loaded file f:\OrCAD\Layout_Plus\library\TRAINING.LLB
+Sat May 10 16:32:00 Loaded file f:\OrCAD\Layout_Plus\library\VRES.llb
+Sat May 10 16:32:00 Loaded file f:\OrCAD\Layout_Plus\library\WCON100T.llb
+Sat May 10 16:32:00 Loaded file f:\OrCAD\Layout_Plus\library\XT.llb
+Sat May 10 16:32:00 Loaded file f:\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Sat May 10 16:32:09 Library file not found:USER.PRT
+Sat May 10 16:32:09 Library file not found:USER.PRT
+Sat May 10 16:32:11 Library file not found:USER.PRT
+Sat May 10 16:32:15 Loaded file f:\OrCAD\Layout_Plus\data\template.imp
+Sat May 10 16:32:15 Loaded file f:\OrCAD\Layout_Plus\data\template.imp
+Sat May 10 16:32:17 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BLIBIO~1.LLB
+Sat May 10 16:32:22 Loaded file f:\OrCAD\Layout_Plus\data\template.imp
+Sat May 10 16:32:23 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BLIBIO~1.LLB
+Sat May 10 16:33:15 Saved as file BACKUP1.MAX
+Sat May 10 16:33:15 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 16:33:16 UserDiv from Layout.INI for AutoECO: 60
+Sat May 10 16:33:16 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 16:33:16 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BLIBIO~1.LLB
+Sat May 10 16:33:16 Loaded file f:\OrCAD\Layout_Plus\library\BCON100T.llb
+Sat May 10 16:33:16 Loaded file f:\OrCAD\Layout_Plus\library\BCON156T.llb
+Sat May 10 16:33:16 Loaded file f:\OrCAD\Layout_Plus\library\BGA.llb
+Sat May 10 16:33:16 Loaded file f:\OrCAD\Layout_Plus\library\CLCC.llb
+Sat May 10 16:33:16 Loaded file f:\OrCAD\Layout_Plus\library\DCON050T.llb
+Sat May 10 16:33:16 Loaded file f:\OrCAD\Layout_Plus\library\DCON085T.llb
+Sat May 10 16:33:16 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050F.llb
+Sat May 10 16:33:16 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050T.llb
+Sat May 10 16:33:16 Loaded file f:\OrCAD\Layout_Plus\library\DIN.llb
+Sat May 10 16:33:16 Loaded file f:\OrCAD\Layout_Plus\library\DIP100B.llb
+Sat May 10 16:33:16 Loaded file f:\OrCAD\Layout_Plus\library\DIP100T.llb
+Sat May 10 16:33:16 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT.llb
+Sat May 10 16:33:16 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 10 16:33:16 Loaded file f:\OrCAD\Layout_Plus\library\ECON100T.llb
+Sat May 10 16:33:16 Loaded file f:\OrCAD\Layout_Plus\library\FBUS.llb
+Sat May 10 16:33:16 Loaded file f:\OrCAD\Layout_Plus\library\ISA.llb
+Sat May 10 16:33:16 Loaded file f:\OrCAD\Layout_Plus\library\JUMPER.LLB
+Sat May 10 16:33:16 Loaded file f:\OrCAD\Layout_Plus\library\LAYOUT.llb
+Sat May 10 16:33:16 Loaded file f:\OrCAD\Layout_Plus\library\LCON100T.llb
+Sat May 10 16:33:16 Loaded file f:\OrCAD\Layout_Plus\library\PC104.llb
+Sat May 10 16:33:16 Loaded file f:\OrCAD\Layout_Plus\library\PCI.llb
+Sat May 10 16:33:16 Loaded file f:\OrCAD\Layout_Plus\library\PCON100T.llb
+Sat May 10 16:33:16 Loaded file f:\OrCAD\Layout_Plus\library\PCON156T.llb
+Sat May 10 16:33:16 Loaded file f:\OrCAD\Layout_Plus\library\PGA.llb
+Sat May 10 16:33:16 Loaded file f:\OrCAD\Layout_Plus\library\PLCC.llb
+Sat May 10 16:33:16 Loaded file f:\OrCAD\Layout_Plus\library\QUAD.llb
+Sat May 10 16:33:17 Loaded file f:\OrCAD\Layout_Plus\library\QUADB.llb
+Sat May 10 16:33:17 Loaded file f:\OrCAD\Layout_Plus\library\RELAY.llb
+Sat May 10 16:33:17 Loaded file f:\OrCAD\Layout_Plus\library\RF.llb
+Sat May 10 16:33:17 Loaded file f:\OrCAD\Layout_Plus\library\SBUS.llb
+Sat May 10 16:33:17 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050F.llb
+Sat May 10 16:33:17 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050T.llb
+Sat May 10 16:33:17 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100F.llb
+Sat May 10 16:33:17 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100T.llb
+Sat May 10 16:33:17 Loaded file f:\OrCAD\Layout_Plus\library\SIP.llb
+Sat May 10 16:33:17 Loaded file f:\OrCAD\Layout_Plus\library\SM.llb
+Sat May 10 16:33:17 Loaded file f:\OrCAD\Layout_Plus\library\SOG.llb
+Sat May 10 16:33:17 Loaded file f:\OrCAD\Layout_Plus\library\SOJ.llb
+Sat May 10 16:33:17 Loaded file f:\OrCAD\Layout_Plus\library\STIFF.llb
+Sat May 10 16:33:17 Loaded file f:\OrCAD\Layout_Plus\library\TELE.llb
+Sat May 10 16:33:17 Loaded file f:\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Sat May 10 16:33:17 Loaded file f:\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Sat May 10 16:33:17 Loaded file f:\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Sat May 10 16:33:17 Loaded file f:\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Sat May 10 16:33:17 Loaded file f:\OrCAD\Layout_Plus\library\TM_DISC.llb
+Sat May 10 16:33:17 Loaded file f:\OrCAD\Layout_Plus\library\TM_RAD.llb
+Sat May 10 16:33:17 Loaded file f:\OrCAD\Layout_Plus\library\TO.llb
+Sat May 10 16:33:17 Loaded file f:\OrCAD\Layout_Plus\library\TRAINING.LLB
+Sat May 10 16:33:17 Loaded file f:\OrCAD\Layout_Plus\library\VRES.llb
+Sat May 10 16:33:17 Loaded file f:\OrCAD\Layout_Plus\library\WCON100T.llb
+Sat May 10 16:33:18 Loaded file f:\OrCAD\Layout_Plus\library\XT.llb
+Sat May 10 16:33:18 Loaded file f:\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Sat May 10 16:33:18 Error code 0039.165 (880)
+Sat May 10 16:33:25 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 16:33:25 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 16:33:27 Saved as file BACKUP1.MAX
+Sat May 10 16:33:27 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 16:33:27 UserDiv from Layout.INI for AutoECO: 60
+Sat May 10 16:33:27 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 16:33:27 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BLIBIO~1.LLB
+Sat May 10 16:33:27 Loaded file f:\OrCAD\Layout_Plus\library\BCON100T.llb
+Sat May 10 16:33:27 Loaded file f:\OrCAD\Layout_Plus\library\BCON156T.llb
+Sat May 10 16:33:27 Loaded file f:\OrCAD\Layout_Plus\library\BGA.llb
+Sat May 10 16:33:27 Loaded file f:\OrCAD\Layout_Plus\library\CLCC.llb
+Sat May 10 16:33:27 Loaded file f:\OrCAD\Layout_Plus\library\DCON050T.llb
+Sat May 10 16:33:27 Loaded file f:\OrCAD\Layout_Plus\library\DCON085T.llb
+Sat May 10 16:33:27 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050F.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050T.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\DIN.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\DIP100B.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\DIP100T.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\ECON100T.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\FBUS.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\ISA.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\JUMPER.LLB
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\LAYOUT.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\LCON100T.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\PC104.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\PCI.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\PCON100T.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\PCON156T.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\PGA.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\PLCC.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\QUAD.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\QUADB.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\RELAY.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\RF.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\SBUS.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050F.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050T.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100F.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100T.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\SIP.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\SM.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\SOG.llb
+Sat May 10 16:33:28 Loaded file f:\OrCAD\Layout_Plus\library\SOJ.llb
+Sat May 10 16:33:29 Loaded file f:\OrCAD\Layout_Plus\library\STIFF.llb
+Sat May 10 16:33:29 Loaded file f:\OrCAD\Layout_Plus\library\TELE.llb
+Sat May 10 16:33:29 Loaded file f:\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Sat May 10 16:33:29 Loaded file f:\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Sat May 10 16:33:29 Loaded file f:\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Sat May 10 16:33:29 Loaded file f:\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Sat May 10 16:33:29 Loaded file f:\OrCAD\Layout_Plus\library\TM_DISC.llb
+Sat May 10 16:33:29 Loaded file f:\OrCAD\Layout_Plus\library\TM_RAD.llb
+Sat May 10 16:33:29 Loaded file f:\OrCAD\Layout_Plus\library\TO.llb
+Sat May 10 16:33:29 Loaded file f:\OrCAD\Layout_Plus\library\TRAINING.LLB
+Sat May 10 16:33:29 Loaded file f:\OrCAD\Layout_Plus\library\VRES.llb
+Sat May 10 16:33:29 Loaded file f:\OrCAD\Layout_Plus\library\WCON100T.llb
+Sat May 10 16:33:29 Loaded file f:\OrCAD\Layout_Plus\library\XT.llb
+Sat May 10 16:33:29 Loaded file f:\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Sat May 10 16:33:29 Error code 0039.165 (880)
+Sat May 10 16:33:33 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 16:33:33 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 16:33:49 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 16:33:53 Saved as file BACKUP1.MAX
+Sat May 10 16:33:53 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 16:33:54 UserDiv from Layout.INI for AutoECO: 60
+Sat May 10 16:33:54 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 16:33:54 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BLIBIO~1.LLB
+Sat May 10 16:33:54 Loaded file f:\OrCAD\Layout_Plus\library\BCON100T.llb
+Sat May 10 16:33:54 Loaded file f:\OrCAD\Layout_Plus\library\BCON156T.llb
+Sat May 10 16:33:54 Loaded file f:\OrCAD\Layout_Plus\library\BGA.llb
+Sat May 10 16:33:54 Loaded file f:\OrCAD\Layout_Plus\library\CLCC.llb
+Sat May 10 16:33:54 Loaded file f:\OrCAD\Layout_Plus\library\DCON050T.llb
+Sat May 10 16:33:54 Loaded file f:\OrCAD\Layout_Plus\library\DCON085T.llb
+Sat May 10 16:33:54 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050F.llb
+Sat May 10 16:33:54 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050T.llb
+Sat May 10 16:33:54 Loaded file f:\OrCAD\Layout_Plus\library\DIN.llb
+Sat May 10 16:33:54 Loaded file f:\OrCAD\Layout_Plus\library\DIP100B.llb
+Sat May 10 16:33:54 Loaded file f:\OrCAD\Layout_Plus\library\DIP100T.llb
+Sat May 10 16:33:54 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT.llb
+Sat May 10 16:33:54 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 10 16:33:54 Loaded file f:\OrCAD\Layout_Plus\library\ECON100T.llb
+Sat May 10 16:33:54 Loaded file f:\OrCAD\Layout_Plus\library\FBUS.llb
+Sat May 10 16:33:54 Loaded file f:\OrCAD\Layout_Plus\library\ISA.llb
+Sat May 10 16:33:55 Loaded file f:\OrCAD\Layout_Plus\library\JUMPER.LLB
+Sat May 10 16:33:55 Loaded file f:\OrCAD\Layout_Plus\library\LAYOUT.llb
+Sat May 10 16:33:55 Loaded file f:\OrCAD\Layout_Plus\library\LCON100T.llb
+Sat May 10 16:33:55 Loaded file f:\OrCAD\Layout_Plus\library\PC104.llb
+Sat May 10 16:33:55 Loaded file f:\OrCAD\Layout_Plus\library\PCI.llb
+Sat May 10 16:33:55 Loaded file f:\OrCAD\Layout_Plus\library\PCON100T.llb
+Sat May 10 16:33:55 Loaded file f:\OrCAD\Layout_Plus\library\PCON156T.llb
+Sat May 10 16:33:55 Loaded file f:\OrCAD\Layout_Plus\library\PGA.llb
+Sat May 10 16:33:55 Loaded file f:\OrCAD\Layout_Plus\library\PLCC.llb
+Sat May 10 16:33:55 Loaded file f:\OrCAD\Layout_Plus\library\QUAD.llb
+Sat May 10 16:33:55 Loaded file f:\OrCAD\Layout_Plus\library\QUADB.llb
+Sat May 10 16:33:55 Loaded file f:\OrCAD\Layout_Plus\library\RELAY.llb
+Sat May 10 16:33:55 Loaded file f:\OrCAD\Layout_Plus\library\RF.llb
+Sat May 10 16:33:55 Loaded file f:\OrCAD\Layout_Plus\library\SBUS.llb
+Sat May 10 16:33:55 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050F.llb
+Sat May 10 16:33:55 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050T.llb
+Sat May 10 16:33:55 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100F.llb
+Sat May 10 16:33:55 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100T.llb
+Sat May 10 16:33:55 Loaded file f:\OrCAD\Layout_Plus\library\SIP.llb
+Sat May 10 16:33:55 Loaded file f:\OrCAD\Layout_Plus\library\SM.llb
+Sat May 10 16:33:55 Loaded file f:\OrCAD\Layout_Plus\library\SOG.llb
+Sat May 10 16:33:55 Loaded file f:\OrCAD\Layout_Plus\library\SOJ.llb
+Sat May 10 16:33:56 Loaded file f:\OrCAD\Layout_Plus\library\STIFF.llb
+Sat May 10 16:33:56 Loaded file f:\OrCAD\Layout_Plus\library\TELE.llb
+Sat May 10 16:33:56 Loaded file f:\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Sat May 10 16:33:56 Loaded file f:\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Sat May 10 16:33:56 Loaded file f:\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Sat May 10 16:33:56 Loaded file f:\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Sat May 10 16:33:56 Loaded file f:\OrCAD\Layout_Plus\library\TM_DISC.llb
+Sat May 10 16:33:56 Loaded file f:\OrCAD\Layout_Plus\library\TM_RAD.llb
+Sat May 10 16:33:56 Loaded file f:\OrCAD\Layout_Plus\library\TO.llb
+Sat May 10 16:33:56 Loaded file f:\OrCAD\Layout_Plus\library\TRAINING.LLB
+Sat May 10 16:33:56 Loaded file f:\OrCAD\Layout_Plus\library\VRES.llb
+Sat May 10 16:33:56 Loaded file f:\OrCAD\Layout_Plus\library\WCON100T.llb
+Sat May 10 16:33:56 Loaded file f:\OrCAD\Layout_Plus\library\XT.llb
+Sat May 10 16:33:56 Loaded file f:\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Sat May 10 16:33:57 Error code 0039.165 (880)
+Sat May 10 16:34:46 Saved as file BACKUP1.MAX
+Sat May 10 16:34:46 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 16:34:47 UserDiv from Layout.INI for AutoECO: 60
+Sat May 10 16:34:47 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 16:34:47 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BLIBIO~1.LLB
+Sat May 10 16:34:47 Loaded file f:\OrCAD\Layout_Plus\library\BCON100T.llb
+Sat May 10 16:34:47 Loaded file f:\OrCAD\Layout_Plus\library\BCON156T.llb
+Sat May 10 16:34:47 Loaded file f:\OrCAD\Layout_Plus\library\BGA.llb
+Sat May 10 16:34:47 Loaded file f:\OrCAD\Layout_Plus\library\CLCC.llb
+Sat May 10 16:34:47 Loaded file f:\OrCAD\Layout_Plus\library\DCON050T.llb
+Sat May 10 16:34:47 Loaded file f:\OrCAD\Layout_Plus\library\DCON085T.llb
+Sat May 10 16:34:47 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050F.llb
+Sat May 10 16:34:47 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050T.llb
+Sat May 10 16:34:47 Loaded file f:\OrCAD\Layout_Plus\library\DIN.llb
+Sat May 10 16:34:47 Loaded file f:\OrCAD\Layout_Plus\library\DIP100B.llb
+Sat May 10 16:34:47 Loaded file f:\OrCAD\Layout_Plus\library\DIP100T.llb
+Sat May 10 16:34:47 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT.llb
+Sat May 10 16:34:47 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 10 16:34:47 Loaded file f:\OrCAD\Layout_Plus\library\ECON100T.llb
+Sat May 10 16:34:47 Loaded file f:\OrCAD\Layout_Plus\library\FBUS.llb
+Sat May 10 16:34:47 Loaded file f:\OrCAD\Layout_Plus\library\ISA.llb
+Sat May 10 16:34:47 Loaded file f:\OrCAD\Layout_Plus\library\JUMPER.LLB
+Sat May 10 16:34:47 Loaded file f:\OrCAD\Layout_Plus\library\LAYOUT.llb
+Sat May 10 16:34:47 Loaded file f:\OrCAD\Layout_Plus\library\LCON100T.llb
+Sat May 10 16:34:47 Loaded file f:\OrCAD\Layout_Plus\library\PC104.llb
+Sat May 10 16:34:47 Loaded file f:\OrCAD\Layout_Plus\library\PCI.llb
+Sat May 10 16:34:47 Loaded file f:\OrCAD\Layout_Plus\library\PCON100T.llb
+Sat May 10 16:34:47 Loaded file f:\OrCAD\Layout_Plus\library\PCON156T.llb
+Sat May 10 16:34:47 Loaded file f:\OrCAD\Layout_Plus\library\PGA.llb
+Sat May 10 16:34:47 Loaded file f:\OrCAD\Layout_Plus\library\PLCC.llb
+Sat May 10 16:34:48 Loaded file f:\OrCAD\Layout_Plus\library\QUAD.llb
+Sat May 10 16:34:48 Loaded file f:\OrCAD\Layout_Plus\library\QUADB.llb
+Sat May 10 16:34:48 Loaded file f:\OrCAD\Layout_Plus\library\RELAY.llb
+Sat May 10 16:34:48 Loaded file f:\OrCAD\Layout_Plus\library\RF.llb
+Sat May 10 16:34:48 Loaded file f:\OrCAD\Layout_Plus\library\SBUS.llb
+Sat May 10 16:34:48 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050F.llb
+Sat May 10 16:34:48 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050T.llb
+Sat May 10 16:34:48 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100F.llb
+Sat May 10 16:34:48 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100T.llb
+Sat May 10 16:34:48 Loaded file f:\OrCAD\Layout_Plus\library\SIP.llb
+Sat May 10 16:34:48 Loaded file f:\OrCAD\Layout_Plus\library\SM.llb
+Sat May 10 16:34:48 Loaded file f:\OrCAD\Layout_Plus\library\SOG.llb
+Sat May 10 16:34:48 Loaded file f:\OrCAD\Layout_Plus\library\SOJ.llb
+Sat May 10 16:34:48 Loaded file f:\OrCAD\Layout_Plus\library\STIFF.llb
+Sat May 10 16:34:48 Loaded file f:\OrCAD\Layout_Plus\library\TELE.llb
+Sat May 10 16:34:48 Loaded file f:\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Sat May 10 16:34:48 Loaded file f:\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Sat May 10 16:34:48 Loaded file f:\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Sat May 10 16:34:48 Loaded file f:\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Sat May 10 16:34:48 Loaded file f:\OrCAD\Layout_Plus\library\TM_DISC.llb
+Sat May 10 16:34:48 Loaded file f:\OrCAD\Layout_Plus\library\TM_RAD.llb
+Sat May 10 16:34:48 Loaded file f:\OrCAD\Layout_Plus\library\TO.llb
+Sat May 10 16:34:48 Loaded file f:\OrCAD\Layout_Plus\library\TRAINING.LLB
+Sat May 10 16:34:48 Loaded file f:\OrCAD\Layout_Plus\library\VRES.llb
+Sat May 10 16:34:49 Loaded file f:\OrCAD\Layout_Plus\library\WCON100T.llb
+Sat May 10 16:34:49 Loaded file f:\OrCAD\Layout_Plus\library\XT.llb
+Sat May 10 16:34:49 Loaded file f:\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Sat May 10 16:34:49 Error code 0039.165 (880)
+Sat May 10 16:41:54 Saved as file BACKUP1.MAX
+Sat May 10 16:41:54 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 16:41:54 UserDiv from Layout.INI for AutoECO: 60
+Sat May 10 16:41:54 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 16:41:54 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BLIBIO~1.LLB
+Sat May 10 16:41:54 Loaded file f:\OrCAD\Layout_Plus\library\BCON100T.llb
+Sat May 10 16:41:54 Loaded file f:\OrCAD\Layout_Plus\library\BCON156T.llb
+Sat May 10 16:41:54 Loaded file f:\OrCAD\Layout_Plus\library\BGA.llb
+Sat May 10 16:41:54 Loaded file f:\OrCAD\Layout_Plus\library\CLCC.llb
+Sat May 10 16:41:54 Loaded file f:\OrCAD\Layout_Plus\library\DCON050T.llb
+Sat May 10 16:41:54 Loaded file f:\OrCAD\Layout_Plus\library\DCON085T.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050F.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050T.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\DIN.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\DIP100B.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\DIP100T.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\ECON100T.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\FBUS.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\ISA.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\JUMPER.LLB
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\LAYOUT.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\LCON100T.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\PC104.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\PCI.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\PCON100T.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\PCON156T.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\PGA.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\PLCC.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\QUAD.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\QUADB.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\RELAY.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\RF.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\SBUS.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050F.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050T.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100F.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100T.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\SIP.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\SM.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\SOG.llb
+Sat May 10 16:41:55 Loaded file f:\OrCAD\Layout_Plus\library\SOJ.llb
+Sat May 10 16:41:56 Loaded file f:\OrCAD\Layout_Plus\library\STIFF.llb
+Sat May 10 16:41:56 Loaded file f:\OrCAD\Layout_Plus\library\TELE.llb
+Sat May 10 16:41:56 Loaded file f:\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Sat May 10 16:41:56 Loaded file f:\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Sat May 10 16:41:56 Loaded file f:\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Sat May 10 16:41:56 Loaded file f:\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Sat May 10 16:41:56 Loaded file f:\OrCAD\Layout_Plus\library\TM_DISC.llb
+Sat May 10 16:41:56 Loaded file f:\OrCAD\Layout_Plus\library\TM_RAD.llb
+Sat May 10 16:41:56 Loaded file f:\OrCAD\Layout_Plus\library\TO.llb
+Sat May 10 16:41:56 Loaded file f:\OrCAD\Layout_Plus\library\TRAINING.LLB
+Sat May 10 16:41:56 Loaded file f:\OrCAD\Layout_Plus\library\VRES.llb
+Sat May 10 16:41:56 Loaded file f:\OrCAD\Layout_Plus\library\WCON100T.llb
+Sat May 10 16:41:56 Loaded file f:\OrCAD\Layout_Plus\library\XT.llb
+Sat May 10 16:41:56 Loaded file f:\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Sat May 10 16:41:56 Error code 0039.165 (880)
+Sat May 10 16:45:22 Saved as file BACKUP1.MAX
+Sat May 10 16:52:21 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 16:53:54 Saved as file BACKUP1.MAX
+Sat May 10 16:53:54 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 16:53:54 UserDiv from Layout.INI for AutoECO: 60
+Sat May 10 16:53:54 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 16:53:54 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BLIBIO~1.LLB
+Sat May 10 16:53:54 Loaded file f:\OrCAD\Layout_Plus\library\BCON100T.llb
+Sat May 10 16:53:54 Loaded file f:\OrCAD\Layout_Plus\library\BCON156T.llb
+Sat May 10 16:53:54 Loaded file f:\OrCAD\Layout_Plus\library\BGA.llb
+Sat May 10 16:53:55 Loaded file f:\OrCAD\Layout_Plus\library\CLCC.llb
+Sat May 10 16:53:55 Loaded file f:\OrCAD\Layout_Plus\library\DCON050T.llb
+Sat May 10 16:53:55 Loaded file f:\OrCAD\Layout_Plus\library\DCON085T.llb
+Sat May 10 16:53:55 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050F.llb
+Sat May 10 16:53:55 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050T.llb
+Sat May 10 16:53:55 Loaded file f:\OrCAD\Layout_Plus\library\DIN.llb
+Sat May 10 16:53:55 Loaded file f:\OrCAD\Layout_Plus\library\DIP100B.llb
+Sat May 10 16:53:55 Loaded file f:\OrCAD\Layout_Plus\library\DIP100T.llb
+Sat May 10 16:53:55 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT.llb
+Sat May 10 16:53:55 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 10 16:53:55 Loaded file f:\OrCAD\Layout_Plus\library\ECON100T.llb
+Sat May 10 16:53:55 Loaded file f:\OrCAD\Layout_Plus\library\FBUS.llb
+Sat May 10 16:53:55 Loaded file f:\OrCAD\Layout_Plus\library\ISA.llb
+Sat May 10 16:53:55 Loaded file f:\OrCAD\Layout_Plus\library\JUMPER.LLB
+Sat May 10 16:53:55 Loaded file f:\OrCAD\Layout_Plus\library\LAYOUT.llb
+Sat May 10 16:53:55 Loaded file f:\OrCAD\Layout_Plus\library\LCON100T.llb
+Sat May 10 16:53:55 Loaded file f:\OrCAD\Layout_Plus\library\PC104.llb
+Sat May 10 16:53:55 Loaded file f:\OrCAD\Layout_Plus\library\PCI.llb
+Sat May 10 16:53:55 Loaded file f:\OrCAD\Layout_Plus\library\PCON100T.llb
+Sat May 10 16:53:55 Loaded file f:\OrCAD\Layout_Plus\library\PCON156T.llb
+Sat May 10 16:53:55 Loaded file f:\OrCAD\Layout_Plus\library\PGA.llb
+Sat May 10 16:53:55 Loaded file f:\OrCAD\Layout_Plus\library\PLCC.llb
+Sat May 10 16:53:55 Loaded file f:\OrCAD\Layout_Plus\library\QUAD.llb
+Sat May 10 16:53:55 Loaded file f:\OrCAD\Layout_Plus\library\QUADB.llb
+Sat May 10 16:53:55 Loaded file f:\OrCAD\Layout_Plus\library\RELAY.llb
+Sat May 10 16:53:56 Loaded file f:\OrCAD\Layout_Plus\library\RF.llb
+Sat May 10 16:53:56 Loaded file f:\OrCAD\Layout_Plus\library\SBUS.llb
+Sat May 10 16:53:56 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050F.llb
+Sat May 10 16:53:56 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050T.llb
+Sat May 10 16:53:56 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100F.llb
+Sat May 10 16:53:56 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100T.llb
+Sat May 10 16:53:56 Loaded file f:\OrCAD\Layout_Plus\library\SIP.llb
+Sat May 10 16:53:56 Loaded file f:\OrCAD\Layout_Plus\library\SM.llb
+Sat May 10 16:53:56 Loaded file f:\OrCAD\Layout_Plus\library\SOG.llb
+Sat May 10 16:53:56 Loaded file f:\OrCAD\Layout_Plus\library\SOJ.llb
+Sat May 10 16:53:56 Loaded file f:\OrCAD\Layout_Plus\library\STIFF.llb
+Sat May 10 16:53:56 Loaded file f:\OrCAD\Layout_Plus\library\TELE.llb
+Sat May 10 16:53:56 Loaded file f:\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Sat May 10 16:53:56 Loaded file f:\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Sat May 10 16:53:56 Loaded file f:\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Sat May 10 16:53:56 Loaded file f:\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Sat May 10 16:53:56 Loaded file f:\OrCAD\Layout_Plus\library\TM_DISC.llb
+Sat May 10 16:53:56 Loaded file f:\OrCAD\Layout_Plus\library\TM_RAD.llb
+Sat May 10 16:53:56 Loaded file f:\OrCAD\Layout_Plus\library\TO.llb
+Sat May 10 16:53:57 Loaded file f:\OrCAD\Layout_Plus\library\TRAINING.LLB
+Sat May 10 16:53:57 Loaded file f:\OrCAD\Layout_Plus\library\VRES.llb
+Sat May 10 16:53:57 Loaded file f:\OrCAD\Layout_Plus\library\WCON100T.llb
+Sat May 10 16:53:57 Loaded file f:\OrCAD\Layout_Plus\library\XT.llb
+Sat May 10 16:53:57 Loaded file f:\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Sat May 10 16:53:57 Error code 0039.165 (880)
+Sat May 10 17:04:21 Saved as file BACKUP1.MAX
+Sat May 10 17:07:10 Saved as file BACKUP1.MAX
+Sat May 10 17:07:10 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 17:07:10 UserDiv from Layout.INI for AutoECO: 60
+Sat May 10 17:07:11 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 17:07:11 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BLIBIO~1.LLB
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\BCON100T.llb
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\BCON156T.llb
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\BGA.llb
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\CLCC.llb
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\DCON050T.llb
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\DCON085T.llb
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050F.llb
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050T.llb
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\DIN.llb
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\DIP100B.llb
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\DIP100T.llb
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT.llb
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\ECON100T.llb
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\FBUS.llb
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\ISA.llb
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\JUMPER.LLB
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\LAYOUT.llb
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\LCON100T.llb
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\PC104.llb
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\PCI.llb
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\PCON100T.llb
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\PCON156T.llb
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\PGA.llb
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\PLCC.llb
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\QUAD.llb
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\QUADB.llb
+Sat May 10 17:07:11 Loaded file f:\OrCAD\Layout_Plus\library\RELAY.llb
+Sat May 10 17:07:12 Loaded file f:\OrCAD\Layout_Plus\library\RF.llb
+Sat May 10 17:07:12 Loaded file f:\OrCAD\Layout_Plus\library\SBUS.llb
+Sat May 10 17:07:12 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050F.llb
+Sat May 10 17:07:12 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050T.llb
+Sat May 10 17:07:12 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100F.llb
+Sat May 10 17:07:12 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100T.llb
+Sat May 10 17:07:12 Loaded file f:\OrCAD\Layout_Plus\library\SIP.llb
+Sat May 10 17:07:12 Loaded file f:\OrCAD\Layout_Plus\library\SM.llb
+Sat May 10 17:07:12 Loaded file f:\OrCAD\Layout_Plus\library\SOG.llb
+Sat May 10 17:07:12 Loaded file f:\OrCAD\Layout_Plus\library\SOJ.llb
+Sat May 10 17:07:12 Loaded file f:\OrCAD\Layout_Plus\library\STIFF.llb
+Sat May 10 17:07:12 Loaded file f:\OrCAD\Layout_Plus\library\TELE.llb
+Sat May 10 17:07:12 Loaded file f:\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Sat May 10 17:07:12 Loaded file f:\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Sat May 10 17:07:12 Loaded file f:\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Sat May 10 17:07:12 Loaded file f:\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Sat May 10 17:07:12 Loaded file f:\OrCAD\Layout_Plus\library\TM_DISC.llb
+Sat May 10 17:07:12 Loaded file f:\OrCAD\Layout_Plus\library\TM_RAD.llb
+Sat May 10 17:07:12 Loaded file f:\OrCAD\Layout_Plus\library\TO.llb
+Sat May 10 17:07:12 Loaded file f:\OrCAD\Layout_Plus\library\TRAINING.LLB
+Sat May 10 17:07:12 Loaded file f:\OrCAD\Layout_Plus\library\VRES.llb
+Sat May 10 17:07:12 Loaded file f:\OrCAD\Layout_Plus\library\WCON100T.llb
+Sat May 10 17:07:12 Loaded file f:\OrCAD\Layout_Plus\library\XT.llb
+Sat May 10 17:07:12 Loaded file f:\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Sat May 10 17:07:13 Error code 0039.165 (880)
+Sat May 10 17:09:24 Saved as file BACKUP1.MAX
+Sat May 10 17:09:24 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 17:09:24 UserDiv from Layout.INI for AutoECO: 60
+Sat May 10 17:09:24 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 17:09:24 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BLIBIO~1.LLB
+Sat May 10 17:09:24 Loaded file f:\OrCAD\Layout_Plus\library\BCON100T.llb
+Sat May 10 17:09:24 Loaded file f:\OrCAD\Layout_Plus\library\BCON156T.llb
+Sat May 10 17:09:24 Loaded file f:\OrCAD\Layout_Plus\library\BGA.llb
+Sat May 10 17:09:24 Loaded file f:\OrCAD\Layout_Plus\library\CLCC.llb
+Sat May 10 17:09:24 Loaded file f:\OrCAD\Layout_Plus\library\DCON050T.llb
+Sat May 10 17:09:24 Loaded file f:\OrCAD\Layout_Plus\library\DCON085T.llb
+Sat May 10 17:09:24 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050F.llb
+Sat May 10 17:09:24 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050T.llb
+Sat May 10 17:09:24 Loaded file f:\OrCAD\Layout_Plus\library\DIN.llb
+Sat May 10 17:09:24 Loaded file f:\OrCAD\Layout_Plus\library\DIP100B.llb
+Sat May 10 17:09:24 Loaded file f:\OrCAD\Layout_Plus\library\DIP100T.llb
+Sat May 10 17:09:24 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\ECON100T.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\FBUS.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\ISA.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\JUMPER.LLB
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\LAYOUT.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\LCON100T.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\PC104.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\PCI.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\PCON100T.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\PCON156T.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\PGA.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\PLCC.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\QUAD.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\QUADB.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\RELAY.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\RF.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\SBUS.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050F.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050T.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100F.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100T.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\SIP.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\SM.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\SOG.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\SOJ.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\STIFF.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\TELE.llb
+Sat May 10 17:09:25 Loaded file f:\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Sat May 10 17:09:26 Loaded file f:\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Sat May 10 17:09:26 Loaded file f:\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Sat May 10 17:09:26 Loaded file f:\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Sat May 10 17:09:26 Loaded file f:\OrCAD\Layout_Plus\library\TM_DISC.llb
+Sat May 10 17:09:26 Loaded file f:\OrCAD\Layout_Plus\library\TM_RAD.llb
+Sat May 10 17:09:26 Loaded file f:\OrCAD\Layout_Plus\library\TO.llb
+Sat May 10 17:09:26 Loaded file f:\OrCAD\Layout_Plus\library\TRAINING.LLB
+Sat May 10 17:09:26 Loaded file f:\OrCAD\Layout_Plus\library\VRES.llb
+Sat May 10 17:09:26 Loaded file f:\OrCAD\Layout_Plus\library\WCON100T.llb
+Sat May 10 17:09:26 Loaded file f:\OrCAD\Layout_Plus\library\XT.llb
+Sat May 10 17:09:26 Loaded file f:\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Sat May 10 17:09:26 Error code 0039.165 (880)
+Sat May 10 17:14:21 Saved as file BACKUP1.MAX
+Sat May 10 17:23:48 Saved as file BACKUP1.MAX
+Sat May 10 17:23:48 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 17:23:48 UserDiv from Layout.INI for AutoECO: 60
+Sat May 10 17:23:48 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 17:23:48 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BLIBIO~1.LLB
+Sat May 10 17:23:48 Loaded file f:\OrCAD\Layout_Plus\library\BCON100T.llb
+Sat May 10 17:23:48 Loaded file f:\OrCAD\Layout_Plus\library\BCON156T.llb
+Sat May 10 17:23:48 Loaded file f:\OrCAD\Layout_Plus\library\BGA.llb
+Sat May 10 17:23:48 Loaded file f:\OrCAD\Layout_Plus\library\CLCC.llb
+Sat May 10 17:23:48 Loaded file f:\OrCAD\Layout_Plus\library\DCON050T.llb
+Sat May 10 17:23:48 Loaded file f:\OrCAD\Layout_Plus\library\DCON085T.llb
+Sat May 10 17:23:48 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050F.llb
+Sat May 10 17:23:48 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050T.llb
+Sat May 10 17:23:48 Loaded file f:\OrCAD\Layout_Plus\library\DIN.llb
+Sat May 10 17:23:48 Loaded file f:\OrCAD\Layout_Plus\library\DIP100B.llb
+Sat May 10 17:23:48 Loaded file f:\OrCAD\Layout_Plus\library\DIP100T.llb
+Sat May 10 17:23:48 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT.llb
+Sat May 10 17:23:48 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 10 17:23:48 Loaded file f:\OrCAD\Layout_Plus\library\ECON100T.llb
+Sat May 10 17:23:48 Loaded file f:\OrCAD\Layout_Plus\library\FBUS.llb
+Sat May 10 17:23:48 Loaded file f:\OrCAD\Layout_Plus\library\ISA.llb
+Sat May 10 17:23:48 Loaded file f:\OrCAD\Layout_Plus\library\JUMPER.LLB
+Sat May 10 17:23:48 Loaded file f:\OrCAD\Layout_Plus\library\LAYOUT.llb
+Sat May 10 17:23:48 Loaded file f:\OrCAD\Layout_Plus\library\LCON100T.llb
+Sat May 10 17:23:48 Loaded file f:\OrCAD\Layout_Plus\library\PC104.llb
+Sat May 10 17:23:48 Loaded file f:\OrCAD\Layout_Plus\library\PCI.llb
+Sat May 10 17:23:48 Loaded file f:\OrCAD\Layout_Plus\library\PCON100T.llb
+Sat May 10 17:23:48 Loaded file f:\OrCAD\Layout_Plus\library\PCON156T.llb
+Sat May 10 17:23:48 Loaded file f:\OrCAD\Layout_Plus\library\PGA.llb
+Sat May 10 17:23:49 Loaded file f:\OrCAD\Layout_Plus\library\PLCC.llb
+Sat May 10 17:23:49 Loaded file f:\OrCAD\Layout_Plus\library\QUAD.llb
+Sat May 10 17:23:49 Loaded file f:\OrCAD\Layout_Plus\library\QUADB.llb
+Sat May 10 17:23:49 Loaded file f:\OrCAD\Layout_Plus\library\RELAY.llb
+Sat May 10 17:23:49 Loaded file f:\OrCAD\Layout_Plus\library\RF.llb
+Sat May 10 17:23:49 Loaded file f:\OrCAD\Layout_Plus\library\SBUS.llb
+Sat May 10 17:23:49 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050F.llb
+Sat May 10 17:23:49 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050T.llb
+Sat May 10 17:23:49 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100F.llb
+Sat May 10 17:23:49 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100T.llb
+Sat May 10 17:23:49 Loaded file f:\OrCAD\Layout_Plus\library\SIP.llb
+Sat May 10 17:23:49 Loaded file f:\OrCAD\Layout_Plus\library\SM.llb
+Sat May 10 17:23:49 Loaded file f:\OrCAD\Layout_Plus\library\SOG.llb
+Sat May 10 17:23:49 Loaded file f:\OrCAD\Layout_Plus\library\SOJ.llb
+Sat May 10 17:23:49 Loaded file f:\OrCAD\Layout_Plus\library\STIFF.llb
+Sat May 10 17:23:49 Loaded file f:\OrCAD\Layout_Plus\library\TELE.llb
+Sat May 10 17:23:49 Loaded file f:\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Sat May 10 17:23:49 Loaded file f:\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Sat May 10 17:23:49 Loaded file f:\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Sat May 10 17:23:49 Loaded file f:\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Sat May 10 17:23:49 Loaded file f:\OrCAD\Layout_Plus\library\TM_DISC.llb
+Sat May 10 17:23:49 Loaded file f:\OrCAD\Layout_Plus\library\TM_RAD.llb
+Sat May 10 17:23:49 Loaded file f:\OrCAD\Layout_Plus\library\TO.llb
+Sat May 10 17:23:50 Loaded file f:\OrCAD\Layout_Plus\library\TRAINING.LLB
+Sat May 10 17:23:50 Loaded file f:\OrCAD\Layout_Plus\library\VRES.llb
+Sat May 10 17:23:50 Loaded file f:\OrCAD\Layout_Plus\library\WCON100T.llb
+Sat May 10 17:23:50 Loaded file f:\OrCAD\Layout_Plus\library\XT.llb
+Sat May 10 17:23:50 Loaded file f:\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Sat May 10 17:23:50 Error code 0039.165 (880)
+Sat May 10 17:24:21 Saved as file BACKUP1.MAX
+Sat May 10 17:29:24 Saved as file BACKUP1.MAX
+Sat May 10 17:29:24 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 17:29:24 UserDiv from Layout.INI for AutoECO: 60
+Sat May 10 17:29:24 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 17:29:24 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BLIBIO~1.LLB
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\BCON100T.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\BCON156T.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\BGA.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\CLCC.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\DCON050T.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\DCON085T.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050F.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050T.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\DIN.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\DIP100B.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\DIP100T.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\ECON100T.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\FBUS.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\ISA.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\JUMPER.LLB
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\LAYOUT.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\LCON100T.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\PC104.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\PCI.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\PCON100T.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\PCON156T.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\PGA.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\PLCC.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\QUAD.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\QUADB.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\RELAY.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\RF.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\SBUS.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050F.llb
+Sat May 10 17:29:25 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050T.llb
+Sat May 10 17:29:26 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100F.llb
+Sat May 10 17:29:26 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100T.llb
+Sat May 10 17:29:26 Loaded file f:\OrCAD\Layout_Plus\library\SIP.llb
+Sat May 10 17:29:26 Loaded file f:\OrCAD\Layout_Plus\library\SM.llb
+Sat May 10 17:29:26 Loaded file f:\OrCAD\Layout_Plus\library\SOG.llb
+Sat May 10 17:29:26 Loaded file f:\OrCAD\Layout_Plus\library\SOJ.llb
+Sat May 10 17:29:26 Loaded file f:\OrCAD\Layout_Plus\library\STIFF.llb
+Sat May 10 17:29:26 Loaded file f:\OrCAD\Layout_Plus\library\TELE.llb
+Sat May 10 17:29:26 Loaded file f:\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Sat May 10 17:29:26 Loaded file f:\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Sat May 10 17:29:26 Loaded file f:\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Sat May 10 17:29:26 Loaded file f:\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Sat May 10 17:29:26 Loaded file f:\OrCAD\Layout_Plus\library\TM_DISC.llb
+Sat May 10 17:29:26 Loaded file f:\OrCAD\Layout_Plus\library\TM_RAD.llb
+Sat May 10 17:29:26 Loaded file f:\OrCAD\Layout_Plus\library\TO.llb
+Sat May 10 17:29:26 Loaded file f:\OrCAD\Layout_Plus\library\TRAINING.LLB
+Sat May 10 17:29:26 Loaded file f:\OrCAD\Layout_Plus\library\VRES.llb
+Sat May 10 17:29:26 Loaded file f:\OrCAD\Layout_Plus\library\WCON100T.llb
+Sat May 10 17:29:26 Loaded file f:\OrCAD\Layout_Plus\library\XT.llb
+Sat May 10 17:29:26 Loaded file f:\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Sat May 10 17:29:27 Error code 0039.165 (880)
+Sat May 10 17:32:59 Saved as file BACKUP1.MAX
+Sat May 10 17:32:59 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 17:32:59 UserDiv from Layout.INI for AutoECO: 60
+Sat May 10 17:32:59 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 17:32:59 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BLIBIO~1.LLB
+Sat May 10 17:32:59 Loaded file f:\OrCAD\Layout_Plus\library\BCON100T.llb
+Sat May 10 17:32:59 Loaded file f:\OrCAD\Layout_Plus\library\BCON156T.llb
+Sat May 10 17:32:59 Loaded file f:\OrCAD\Layout_Plus\library\BGA.llb
+Sat May 10 17:32:59 Loaded file f:\OrCAD\Layout_Plus\library\CLCC.llb
+Sat May 10 17:32:59 Loaded file f:\OrCAD\Layout_Plus\library\DCON050T.llb
+Sat May 10 17:32:59 Loaded file f:\OrCAD\Layout_Plus\library\DCON085T.llb
+Sat May 10 17:32:59 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050F.llb
+Sat May 10 17:32:59 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050T.llb
+Sat May 10 17:32:59 Loaded file f:\OrCAD\Layout_Plus\library\DIN.llb
+Sat May 10 17:32:59 Loaded file f:\OrCAD\Layout_Plus\library\DIP100B.llb
+Sat May 10 17:32:59 Loaded file f:\OrCAD\Layout_Plus\library\DIP100T.llb
+Sat May 10 17:32:59 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT.llb
+Sat May 10 17:32:59 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 10 17:32:59 Loaded file f:\OrCAD\Layout_Plus\library\ECON100T.llb
+Sat May 10 17:32:59 Loaded file f:\OrCAD\Layout_Plus\library\FBUS.llb
+Sat May 10 17:32:59 Loaded file f:\OrCAD\Layout_Plus\library\ISA.llb
+Sat May 10 17:32:59 Loaded file f:\OrCAD\Layout_Plus\library\JUMPER.LLB
+Sat May 10 17:32:59 Loaded file f:\OrCAD\Layout_Plus\library\LAYOUT.llb
+Sat May 10 17:32:59 Loaded file f:\OrCAD\Layout_Plus\library\LCON100T.llb
+Sat May 10 17:32:59 Loaded file f:\OrCAD\Layout_Plus\library\PC104.llb
+Sat May 10 17:32:59 Loaded file f:\OrCAD\Layout_Plus\library\PCI.llb
+Sat May 10 17:32:59 Loaded file f:\OrCAD\Layout_Plus\library\PCON100T.llb
+Sat May 10 17:32:59 Loaded file f:\OrCAD\Layout_Plus\library\PCON156T.llb
+Sat May 10 17:33:00 Loaded file f:\OrCAD\Layout_Plus\library\PGA.llb
+Sat May 10 17:33:00 Loaded file f:\OrCAD\Layout_Plus\library\PLCC.llb
+Sat May 10 17:33:00 Loaded file f:\OrCAD\Layout_Plus\library\QUAD.llb
+Sat May 10 17:33:00 Loaded file f:\OrCAD\Layout_Plus\library\QUADB.llb
+Sat May 10 17:33:00 Loaded file f:\OrCAD\Layout_Plus\library\RELAY.llb
+Sat May 10 17:33:00 Loaded file f:\OrCAD\Layout_Plus\library\RF.llb
+Sat May 10 17:33:00 Loaded file f:\OrCAD\Layout_Plus\library\SBUS.llb
+Sat May 10 17:33:00 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050F.llb
+Sat May 10 17:33:00 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050T.llb
+Sat May 10 17:33:00 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100F.llb
+Sat May 10 17:33:00 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100T.llb
+Sat May 10 17:33:00 Loaded file f:\OrCAD\Layout_Plus\library\SIP.llb
+Sat May 10 17:33:00 Loaded file f:\OrCAD\Layout_Plus\library\SM.llb
+Sat May 10 17:33:00 Loaded file f:\OrCAD\Layout_Plus\library\SOG.llb
+Sat May 10 17:33:00 Loaded file f:\OrCAD\Layout_Plus\library\SOJ.llb
+Sat May 10 17:33:00 Loaded file f:\OrCAD\Layout_Plus\library\STIFF.llb
+Sat May 10 17:33:00 Loaded file f:\OrCAD\Layout_Plus\library\TELE.llb
+Sat May 10 17:33:00 Loaded file f:\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Sat May 10 17:33:00 Loaded file f:\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Sat May 10 17:33:00 Loaded file f:\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Sat May 10 17:33:00 Loaded file f:\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Sat May 10 17:33:00 Loaded file f:\OrCAD\Layout_Plus\library\TM_DISC.llb
+Sat May 10 17:33:00 Loaded file f:\OrCAD\Layout_Plus\library\TM_RAD.llb
+Sat May 10 17:33:01 Loaded file f:\OrCAD\Layout_Plus\library\TO.llb
+Sat May 10 17:33:01 Loaded file f:\OrCAD\Layout_Plus\library\TRAINING.LLB
+Sat May 10 17:33:01 Loaded file f:\OrCAD\Layout_Plus\library\VRES.llb
+Sat May 10 17:33:01 Loaded file f:\OrCAD\Layout_Plus\library\WCON100T.llb
+Sat May 10 17:33:01 Loaded file f:\OrCAD\Layout_Plus\library\XT.llb
+Sat May 10 17:33:01 Loaded file f:\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Sat May 10 17:33:01 Error code 0039.165 (880)
+Sat May 10 17:34:22 Saved as file BACKUP1.MAX
+Sat May 10 17:39:28 Saved as file BACKUP1.MAX
+Sat May 10 17:39:28 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 17:39:28 UserDiv from Layout.INI for AutoECO: 60
+Sat May 10 17:39:28 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 17:39:28 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BLIBIO~1.LLB
+Sat May 10 17:39:28 Loaded file f:\OrCAD\Layout_Plus\library\BCON100T.llb
+Sat May 10 17:39:28 Loaded file f:\OrCAD\Layout_Plus\library\BCON156T.llb
+Sat May 10 17:39:28 Loaded file f:\OrCAD\Layout_Plus\library\BGA.llb
+Sat May 10 17:39:28 Loaded file f:\OrCAD\Layout_Plus\library\CLCC.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\DCON050T.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\DCON085T.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050F.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050T.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\DIN.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\DIP100B.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\DIP100T.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\ECON100T.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\FBUS.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\ISA.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\JUMPER.LLB
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\LAYOUT.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\LCON100T.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\PC104.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\PCI.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\PCON100T.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\PCON156T.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\PGA.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\PLCC.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\QUAD.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\QUADB.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\RELAY.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\RF.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\SBUS.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050F.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050T.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100F.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100T.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\SIP.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\SM.llb
+Sat May 10 17:39:29 Loaded file f:\OrCAD\Layout_Plus\library\SOG.llb
+Sat May 10 17:39:30 Loaded file f:\OrCAD\Layout_Plus\library\SOJ.llb
+Sat May 10 17:39:30 Loaded file f:\OrCAD\Layout_Plus\library\STIFF.llb
+Sat May 10 17:39:30 Loaded file f:\OrCAD\Layout_Plus\library\TELE.llb
+Sat May 10 17:39:30 Loaded file f:\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Sat May 10 17:39:30 Loaded file f:\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Sat May 10 17:39:30 Loaded file f:\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Sat May 10 17:39:30 Loaded file f:\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Sat May 10 17:39:30 Loaded file f:\OrCAD\Layout_Plus\library\TM_DISC.llb
+Sat May 10 17:39:30 Loaded file f:\OrCAD\Layout_Plus\library\TM_RAD.llb
+Sat May 10 17:39:30 Loaded file f:\OrCAD\Layout_Plus\library\TO.llb
+Sat May 10 17:39:30 Loaded file f:\OrCAD\Layout_Plus\library\TRAINING.LLB
+Sat May 10 17:39:30 Loaded file f:\OrCAD\Layout_Plus\library\VRES.llb
+Sat May 10 17:39:30 Loaded file f:\OrCAD\Layout_Plus\library\WCON100T.llb
+Sat May 10 17:39:30 Loaded file f:\OrCAD\Layout_Plus\library\XT.llb
+Sat May 10 17:39:30 Loaded file f:\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Sat May 10 17:39:31 Error code 0039.165 (880)
+Sat May 10 17:39:42 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sat May 10 17:40:27 Saved as file BACKUP1.MAX
+Sat May 10 17:40:27 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\BACKUP1.MAX
+Sat May 10 17:40:28 UserDiv from Layout.INI for AutoECO: 60
+Sat May 10 17:40:28 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\BACKUP1.MAX
+Sat May 10 17:40:28 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BLIBIO~1.LLB
+Sat May 10 17:40:28 Loaded file f:\OrCAD\Layout_Plus\library\BCON100T.llb
+Sat May 10 17:40:28 Loaded file f:\OrCAD\Layout_Plus\library\BCON156T.llb
+Sat May 10 17:40:28 Loaded file f:\OrCAD\Layout_Plus\library\BGA.llb
+Sat May 10 17:40:28 Loaded file f:\OrCAD\Layout_Plus\library\CLCC.llb
+Sat May 10 17:40:28 Loaded file f:\OrCAD\Layout_Plus\library\DCON050T.llb
+Sat May 10 17:40:28 Loaded file f:\OrCAD\Layout_Plus\library\DCON085T.llb
+Sat May 10 17:40:28 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050F.llb
+Sat May 10 17:40:28 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050T.llb
+Sat May 10 17:40:28 Loaded file f:\OrCAD\Layout_Plus\library\DIN.llb
+Sat May 10 17:40:28 Loaded file f:\OrCAD\Layout_Plus\library\DIP100B.llb
+Sat May 10 17:40:28 Loaded file f:\OrCAD\Layout_Plus\library\DIP100T.llb
+Sat May 10 17:40:28 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT.llb
+Sat May 10 17:40:28 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 10 17:40:28 Loaded file f:\OrCAD\Layout_Plus\library\ECON100T.llb
+Sat May 10 17:40:28 Loaded file f:\OrCAD\Layout_Plus\library\FBUS.llb
+Sat May 10 17:40:28 Loaded file f:\OrCAD\Layout_Plus\library\ISA.llb
+Sat May 10 17:40:28 Loaded file f:\OrCAD\Layout_Plus\library\JUMPER.LLB
+Sat May 10 17:40:28 Loaded file f:\OrCAD\Layout_Plus\library\LAYOUT.llb
+Sat May 10 17:40:28 Loaded file f:\OrCAD\Layout_Plus\library\LCON100T.llb
+Sat May 10 17:40:28 Loaded file f:\OrCAD\Layout_Plus\library\PC104.llb
+Sat May 10 17:40:28 Loaded file f:\OrCAD\Layout_Plus\library\PCI.llb
+Sat May 10 17:40:28 Loaded file f:\OrCAD\Layout_Plus\library\PCON100T.llb
+Sat May 10 17:40:28 Loaded file f:\OrCAD\Layout_Plus\library\PCON156T.llb
+Sat May 10 17:40:29 Loaded file f:\OrCAD\Layout_Plus\library\PGA.llb
+Sat May 10 17:40:29 Loaded file f:\OrCAD\Layout_Plus\library\PLCC.llb
+Sat May 10 17:40:29 Loaded file f:\OrCAD\Layout_Plus\library\QUAD.llb
+Sat May 10 17:40:29 Loaded file f:\OrCAD\Layout_Plus\library\QUADB.llb
+Sat May 10 17:40:29 Loaded file f:\OrCAD\Layout_Plus\library\RELAY.llb
+Sat May 10 17:40:29 Loaded file f:\OrCAD\Layout_Plus\library\RF.llb
+Sat May 10 17:40:29 Loaded file f:\OrCAD\Layout_Plus\library\SBUS.llb
+Sat May 10 17:40:29 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050F.llb
+Sat May 10 17:40:29 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050T.llb
+Sat May 10 17:40:29 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100F.llb
+Sat May 10 17:40:29 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100T.llb
+Sat May 10 17:40:29 Loaded file f:\OrCAD\Layout_Plus\library\SIP.llb
+Sat May 10 17:40:29 Loaded file f:\OrCAD\Layout_Plus\library\SM.llb
+Sat May 10 17:40:29 Loaded file f:\OrCAD\Layout_Plus\library\SOG.llb
+Sat May 10 17:40:29 Loaded file f:\OrCAD\Layout_Plus\library\SOJ.llb
+Sat May 10 17:40:29 Loaded file f:\OrCAD\Layout_Plus\library\STIFF.llb
+Sat May 10 17:40:29 Loaded file f:\OrCAD\Layout_Plus\library\TELE.llb
+Sat May 10 17:40:29 Loaded file f:\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Sat May 10 17:40:29 Loaded file f:\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Sat May 10 17:40:30 Loaded file f:\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Sat May 10 17:40:30 Loaded file f:\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Sat May 10 17:40:30 Loaded file f:\OrCAD\Layout_Plus\library\TM_DISC.llb
+Sat May 10 17:40:30 Loaded file f:\OrCAD\Layout_Plus\library\TM_RAD.llb
+Sat May 10 17:40:30 Loaded file f:\OrCAD\Layout_Plus\library\TO.llb
+Sat May 10 17:40:30 Loaded file f:\OrCAD\Layout_Plus\library\TRAINING.LLB
+Sat May 10 17:40:30 Loaded file f:\OrCAD\Layout_Plus\library\VRES.llb
+Sat May 10 17:40:30 Loaded file f:\OrCAD\Layout_Plus\library\WCON100T.llb
+Sat May 10 17:40:30 Loaded file f:\OrCAD\Layout_Plus\library\XT.llb
+Sat May 10 17:40:30 Loaded file f:\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Sat May 10 17:40:30 Error code 0039.165 (880)
+Sat May 10 17:50:56 Saved as file BACKUP1.MAX
+Sat May 10 17:56:46 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\BACKUP1.MAX
+Sat May 10 17:59:18 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\BACKUP1.MAX
+Sat May 10 18:00:56 Saved as file BACKUP1.MAX
+Sat May 10 18:10:56 Saved as file BACKUP1.MAX
+Sat May 10 18:13:33 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\BACKUP1.MAX
+Sat May 10 18:14:51 Saved as file BACKUP1.MAX
+Sat May 10 18:14:51 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\BACKUP1.MAX
+Sat May 10 18:14:51 UserDiv from Layout.INI for AutoECO: 60
+Sat May 10 18:14:51 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\BACKUP1.MAX
+Sat May 10 18:14:51 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BLIBIO~1.LLB
+Sat May 10 18:14:51 Loaded file f:\OrCAD\Layout_Plus\library\BCON100T.llb
+Sat May 10 18:14:51 Loaded file f:\OrCAD\Layout_Plus\library\BCON156T.llb
+Sat May 10 18:14:51 Loaded file f:\OrCAD\Layout_Plus\library\BGA.llb
+Sat May 10 18:14:51 Loaded file f:\OrCAD\Layout_Plus\library\CLCC.llb
+Sat May 10 18:14:51 Loaded file f:\OrCAD\Layout_Plus\library\DCON050T.llb
+Sat May 10 18:14:51 Loaded file f:\OrCAD\Layout_Plus\library\DCON085T.llb
+Sat May 10 18:14:51 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050F.llb
+Sat May 10 18:14:51 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050T.llb
+Sat May 10 18:14:51 Loaded file f:\OrCAD\Layout_Plus\library\DIN.llb
+Sat May 10 18:14:51 Loaded file f:\OrCAD\Layout_Plus\library\DIP100B.llb
+Sat May 10 18:14:52 Loaded file f:\OrCAD\Layout_Plus\library\DIP100T.llb
+Sat May 10 18:14:52 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT.llb
+Sat May 10 18:14:52 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 10 18:14:52 Loaded file f:\OrCAD\Layout_Plus\library\ECON100T.llb
+Sat May 10 18:14:52 Loaded file f:\OrCAD\Layout_Plus\library\FBUS.llb
+Sat May 10 18:14:52 Loaded file f:\OrCAD\Layout_Plus\library\ISA.llb
+Sat May 10 18:14:52 Loaded file f:\OrCAD\Layout_Plus\library\JUMPER.LLB
+Sat May 10 18:14:52 Loaded file f:\OrCAD\Layout_Plus\library\LAYOUT.llb
+Sat May 10 18:14:52 Loaded file f:\OrCAD\Layout_Plus\library\LCON100T.llb
+Sat May 10 18:14:52 Loaded file f:\OrCAD\Layout_Plus\library\PC104.llb
+Sat May 10 18:14:52 Loaded file f:\OrCAD\Layout_Plus\library\PCI.llb
+Sat May 10 18:14:52 Loaded file f:\OrCAD\Layout_Plus\library\PCON100T.llb
+Sat May 10 18:14:52 Loaded file f:\OrCAD\Layout_Plus\library\PCON156T.llb
+Sat May 10 18:14:52 Loaded file f:\OrCAD\Layout_Plus\library\PGA.llb
+Sat May 10 18:14:52 Loaded file f:\OrCAD\Layout_Plus\library\PLCC.llb
+Sat May 10 18:14:52 Loaded file f:\OrCAD\Layout_Plus\library\QUAD.llb
+Sat May 10 18:14:52 Loaded file f:\OrCAD\Layout_Plus\library\QUADB.llb
+Sat May 10 18:14:52 Loaded file f:\OrCAD\Layout_Plus\library\RELAY.llb
+Sat May 10 18:14:52 Loaded file f:\OrCAD\Layout_Plus\library\RF.llb
+Sat May 10 18:14:52 Loaded file f:\OrCAD\Layout_Plus\library\SBUS.llb
+Sat May 10 18:14:52 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050F.llb
+Sat May 10 18:14:52 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050T.llb
+Sat May 10 18:14:52 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100F.llb
+Sat May 10 18:14:52 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100T.llb
+Sat May 10 18:14:52 Loaded file f:\OrCAD\Layout_Plus\library\SIP.llb
+Sat May 10 18:14:53 Loaded file f:\OrCAD\Layout_Plus\library\SM.llb
+Sat May 10 18:14:53 Loaded file f:\OrCAD\Layout_Plus\library\SOG.llb
+Sat May 10 18:14:53 Loaded file f:\OrCAD\Layout_Plus\library\SOJ.llb
+Sat May 10 18:14:53 Loaded file f:\OrCAD\Layout_Plus\library\STIFF.llb
+Sat May 10 18:14:53 Loaded file f:\OrCAD\Layout_Plus\library\TELE.llb
+Sat May 10 18:14:53 Loaded file f:\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Sat May 10 18:14:53 Loaded file f:\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Sat May 10 18:14:53 Loaded file f:\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Sat May 10 18:14:53 Loaded file f:\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Sat May 10 18:14:53 Loaded file f:\OrCAD\Layout_Plus\library\TM_DISC.llb
+Sat May 10 18:14:53 Loaded file f:\OrCAD\Layout_Plus\library\TM_RAD.llb
+Sat May 10 18:14:53 Loaded file f:\OrCAD\Layout_Plus\library\TO.llb
+Sat May 10 18:14:53 Loaded file f:\OrCAD\Layout_Plus\library\TRAINING.LLB
+Sat May 10 18:14:53 Loaded file f:\OrCAD\Layout_Plus\library\VRES.llb
+Sat May 10 18:14:53 Loaded file f:\OrCAD\Layout_Plus\library\WCON100T.llb
+Sat May 10 18:14:53 Loaded file f:\OrCAD\Layout_Plus\library\XT.llb
+Sat May 10 18:14:53 Loaded file f:\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Sat May 10 18:14:54 Error code 0039.165 (880)
+Sat May 10 18:16:39 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\BACKUP1.MAX
+Sat May 10 18:25:19 Saved as file BACKUP1.MAX
+Sat May 10 18:35:20 Saved as file BACKUP1.MAX
+Sat May 10 18:35:30 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\BACKUP1.MAX
+Sat May 10 18:35:49 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\BACKUP1.MAX
+Sat May 10 18:45:20 Saved as file BACKUP1.MAX
+Sat May 10 18:55:20 Saved as file BACKUP1.MAX
+Sat May 10 19:05:21 Saved as file BACKUP1.MAX
+Sat May 10 19:15:21 Saved as file BACKUP1.MAX
+Sat May 10 19:25:21 Saved as file BACKUP1.MAX
+Sat May 10 19:35:51 Saved as file BACKUP1.MAX
+Sat May 10 19:45:51 Saved as file BACKUP1.MAX
+Sat May 10 19:55:52 Saved as file BACKUP1.MAX
+Sat May 10 20:05:52 Saved as file BACKUP1.MAX
+Sat May 10 20:15:52 Saved as file BACKUP1.MAX
+Sat May 10 20:25:52 Saved as file BACKUP1.MAX
+Sat May 10 20:35:54 Saved as file BACKUP1.MAX
+Sat May 10 20:45:54 Saved as file BACKUP1.MAX
+Sat May 10 20:55:54 Saved as file BACKUP1.MAX
+Sat May 10 21:05:57 Saved as file BACKUP1.MAX
+Sat May 10 21:15:57 Saved as file BACKUP1.MAX
+Sat May 10 21:25:57 Saved as file BACKUP1.MAX
+Sat May 10 21:35:57 Saved as file BACKUP1.MAX
+Mon May 12 20:30:34 Saved as file BACKUP1.MAX
+Mon May 12 20:30:34 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\BACKUP1.MAX
+Mon May 12 20:30:35 UserDiv from Layout.INI for AutoECO: 60
+Mon May 12 20:30:36 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\BACKUP1.MAX
+Mon May 12 20:30:36 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BLIBIO~1.LLB
+Mon May 12 20:30:36 Loaded file f:\OrCAD\Layout_Plus\library\BCON100T.llb
+Mon May 12 20:30:36 Loaded file f:\OrCAD\Layout_Plus\library\BCON156T.llb
+Mon May 12 20:30:37 Loaded file f:\OrCAD\Layout_Plus\library\BGA.llb
+Mon May 12 20:30:37 Loaded file f:\OrCAD\Layout_Plus\library\CLCC.llb
+Mon May 12 20:30:37 Loaded file f:\OrCAD\Layout_Plus\library\DCON050T.llb
+Mon May 12 20:30:37 Loaded file f:\OrCAD\Layout_Plus\library\DCON085T.llb
+Mon May 12 20:30:37 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050F.llb
+Mon May 12 20:30:37 Loaded file f:\OrCAD\Layout_Plus\library\DIMM050T.llb
+Mon May 12 20:30:37 Loaded file f:\OrCAD\Layout_Plus\library\DIN.llb
+Mon May 12 20:30:37 Loaded file f:\OrCAD\Layout_Plus\library\DIP100B.llb
+Mon May 12 20:30:37 Loaded file f:\OrCAD\Layout_Plus\library\DIP100T.llb
+Mon May 12 20:30:37 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT.llb
+Mon May 12 20:30:38 Loaded file f:\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Mon May 12 20:30:38 Loaded file f:\OrCAD\Layout_Plus\library\ECON100T.llb
+Mon May 12 20:30:38 Loaded file f:\OrCAD\Layout_Plus\library\FBUS.llb
+Mon May 12 20:30:38 Loaded file f:\OrCAD\Layout_Plus\library\ISA.llb
+Mon May 12 20:30:38 Loaded file f:\OrCAD\Layout_Plus\library\JUMPER.LLB
+Mon May 12 20:30:38 Loaded file f:\OrCAD\Layout_Plus\library\LAYOUT.llb
+Mon May 12 20:30:38 Loaded file f:\OrCAD\Layout_Plus\library\LCON100T.llb
+Mon May 12 20:30:38 Loaded file f:\OrCAD\Layout_Plus\library\PC104.llb
+Mon May 12 20:30:38 Loaded file f:\OrCAD\Layout_Plus\library\PCI.llb
+Mon May 12 20:30:38 Loaded file f:\OrCAD\Layout_Plus\library\PCON100T.llb
+Mon May 12 20:30:38 Loaded file f:\OrCAD\Layout_Plus\library\PCON156T.llb
+Mon May 12 20:30:39 Loaded file f:\OrCAD\Layout_Plus\library\PGA.llb
+Mon May 12 20:30:39 Loaded file f:\OrCAD\Layout_Plus\library\PLCC.llb
+Mon May 12 20:30:39 Loaded file f:\OrCAD\Layout_Plus\library\QUAD.llb
+Mon May 12 20:30:39 Loaded file f:\OrCAD\Layout_Plus\library\QUADB.llb
+Mon May 12 20:30:40 Loaded file f:\OrCAD\Layout_Plus\library\RELAY.llb
+Mon May 12 20:30:40 Loaded file f:\OrCAD\Layout_Plus\library\RF.llb
+Mon May 12 20:30:40 Loaded file f:\OrCAD\Layout_Plus\library\SBUS.llb
+Mon May 12 20:30:40 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050F.llb
+Mon May 12 20:30:40 Loaded file f:\OrCAD\Layout_Plus\library\SIMM050T.llb
+Mon May 12 20:30:40 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100F.llb
+Mon May 12 20:30:40 Loaded file f:\OrCAD\Layout_Plus\library\SIMM100T.llb
+Mon May 12 20:30:40 Loaded file f:\OrCAD\Layout_Plus\library\SIP.llb
+Mon May 12 20:30:40 Loaded file f:\OrCAD\Layout_Plus\library\SM.llb
+Mon May 12 20:30:40 Loaded file f:\OrCAD\Layout_Plus\library\SOG.llb
+Mon May 12 20:30:40 Loaded file f:\OrCAD\Layout_Plus\library\SOJ.llb
+Mon May 12 20:30:41 Loaded file f:\OrCAD\Layout_Plus\library\STIFF.llb
+Mon May 12 20:30:41 Loaded file f:\OrCAD\Layout_Plus\library\TELE.llb
+Mon May 12 20:30:41 Loaded file f:\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Mon May 12 20:30:41 Loaded file f:\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Mon May 12 20:30:41 Loaded file f:\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Mon May 12 20:30:41 Loaded file f:\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Mon May 12 20:30:41 Loaded file f:\OrCAD\Layout_Plus\library\TM_DISC.llb
+Mon May 12 20:30:41 Loaded file f:\OrCAD\Layout_Plus\library\TM_RAD.llb
+Mon May 12 20:30:41 Loaded file f:\OrCAD\Layout_Plus\library\TO.llb
+Mon May 12 20:30:41 Loaded file f:\OrCAD\Layout_Plus\library\TRAINING.LLB
+Mon May 12 20:30:42 Loaded file f:\OrCAD\Layout_Plus\library\VRES.llb
+Mon May 12 20:30:42 Loaded file f:\OrCAD\Layout_Plus\library\WCON100T.llb
+Mon May 12 20:30:42 Loaded file f:\OrCAD\Layout_Plus\library\XT.llb
+Mon May 12 20:30:42 Loaded file f:\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Mon May 12 20:30:42 Error code 0039.165 (880)
+Mon May 12 20:41:02 Saved as file BACKUP1.MAX
+Mon May 12 20:51:02 Saved as file BACKUP1.MAX
+Mon May 12 20:58:41 Loaded file f:\OrCAD\Layout_Plus\data\template.imp
+Mon May 12 20:58:41 Loaded file f:\OrCAD\Layout_Plus\data\template.imp
+Mon May 12 20:58:41 Loaded file f:\OrCAD\Layout_Plus\data\template.imp
+Mon May 12 20:58:41 Loaded file f:\OrCAD\Layout_Plus\data\template.imp
+Mon May 12 20:58:44 Loaded file F:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BLIBIO~1.LLB
+Mon May 12 20:58:52 Loaded file f:\OrCAD\Layout_Plus\data\template.imp
+Mon May 12 20:58:53 Loaded file f:\OrCAD\Layout_Plus\data\template.imp
+Mon May 12 20:58:54 Loaded file f:\OrCAD\Layout_Plus\data\template.imp
+Mon May 12 21:01:33 Saved as file BACKUP1.MAX
+Mon May 12 21:11:33 Saved as file BACKUP1.MAX
+Mon May 12 21:12:49 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\BACKUP1.MAX
+Mon May 12 21:22:03 Saved as file BACKUP1.MAX
+Mon May 12 21:32:03 Saved as file BACKUP1.MAX
+Mon May 12 21:32:17 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\BACKUP1.MAX
+Mon May 12 21:32:19 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\BACKUP1.MAX
+Mon May 12 21:36:13 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\BACKUP1.MAX
+Mon May 12 21:43:03 Saved as file BACKUP1.MAX
+Mon May 12 21:53:04 Saved as file BACKUP1.MAX
+Mon May 12 22:03:03 Saved as file BACKUP1.MAX
+Tue May 13 21:44:30 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\BACKUP1.MAX
+Tue May 13 21:48:27 Saved as file BACKUP1.MAX
+Tue May 13 21:58:27 Saved as file BACKUP1.MAX
+Tue May 13 22:08:27 Saved as file BACKUP1.MAX
+Tue May 13 22:18:27 Saved as file BACKUP1.MAX
+Tue May 13 22:28:27 Saved as file BACKUP1.MAX
+Tue May 13 22:38:27 Saved as file BACKUP1.MAX
+Tue May 13 22:48:27 Saved as file BACKUP1.MAX
+Tue May 13 22:58:27 Saved as file BACKUP1.MAX
+Tue May 13 23:10:27 Saved as file BACKUP1.MAX
+Tue May 13 23:20:27 Saved as file BACKUP1.MAX
+Tue May 13 23:30:28 Saved as file BACKUP1.MAX
+Tue May 13 23:41:57 Saved as file BACKUP1.MAX
+Tue May 13 23:42:30 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\BACKUP1.MAX
+Wed May 14 22:16:09 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Wed May 14 22:23:41 Saved as file BACKUP1.MAX
+Wed May 14 22:34:11 Saved as file BACKUP1.MAX
+Wed May 14 22:44:11 Saved as file BACKUP1.MAX
+Wed May 14 22:45:56 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Wed May 14 22:54:11 Saved as file BACKUP1.MAX
+Wed May 14 23:03:56 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Wed May 14 23:12:12 Saved as file BACKUP1.MAX
+Wed May 14 23:21:42 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Sun May 18 19:13:52 Saved as file BACKUP1.MAX
+Sun May 18 19:23:52 Saved as file BACKUP1.MAX
+Sun May 18 19:33:52 Saved as file BACKUP1.MAX
+Sun May 18 19:43:52 Saved as file BACKUP1.MAX
+Sun May 18 19:53:52 Saved as file BACKUP1.MAX
+Mon May 19 23:03:59 Saved as file BACKUP1.MAX
+Mon May 19 23:13:59 Saved as file BACKUP1.MAX
+Mon May 19 23:23:59 Saved as file BACKUP1.MAX
+Mon May 19 23:33:59 Saved as file BACKUP1.MAX
+Mon May 19 23:43:59 Saved as file BACKUP1.MAX
+Wed May 21 22:14:45 Loaded file f:\OrCAD\Layout_Plus\data\template.imp
+Wed May 21 22:14:45 Loaded file f:\OrCAD\Layout_Plus\data\template.imp
+Wed May 21 22:21:18 Saved as file F:\MEUS DOCUMENTOS\PROJETOS\TIME PARA SOLDA\TIME PARA SOLDA.MAX
+Wed May 21 22:32:01 Saved as file BACKUP1.MAX
+Wed May 21 22:42:01 Saved as file BACKUP1.MAX
+Wed May 21 22:52:01 Saved as file BACKUP1.MAX
+Wed May 21 23:02:01 Saved as file BACKUP1.MAX
+Wed May 21 23:12:02 Saved as file BACKUP1.MAX
+Wed May 21 23:22:02 Saved as file BACKUP1.MAX
+Wed May 21 23:32:02 Saved as file BACKUP1.MAX
+Thu May 22 19:15:27 Saved as file BACKUP1.MAX
+Thu May 22 19:25:27 Saved as file BACKUP1.MAX
+Thu May 22 19:35:27 Saved as file BACKUP1.MAX
+Thu May 22 19:45:27 Saved as file BACKUP1.MAX
+Thu May 22 19:55:27 Saved as file BACKUP1.MAX
+Thu May 22 20:05:27 Saved as file BACKUP1.MAX
+Thu May 22 20:15:27 Saved as file BACKUP1.MAX
+Thu May 22 20:25:27 Saved as file BACKUP1.MAX
+Thu May 22 20:35:27 Saved as file BACKUP1.MAX
+Thu May 22 20:45:27 Saved as file BACKUP1.MAX
+Thu May 22 20:55:27 Saved as file BACKUP1.MAX
+Thu May 22 21:05:27 Saved as file BACKUP1.MAX
+Thu May 22 21:15:27 Saved as file BACKUP1.MAX
+Thu May 22 21:25:27 Saved as file BACKUP1.MAX
+Thu May 22 21:35:27 Saved as file BACKUP1.MAX
+Thu May 22 21:45:28 Saved as file BACKUP1.MAX
+Thu May 22 21:55:28 Saved as file BACKUP1.MAX
+Thu May 22 22:05:28 Saved as file BACKUP1.MAX
+Thu May 22 22:15:28 Saved as file BACKUP1.MAX
+Thu May 22 22:25:28 Saved as file BACKUP1.MAX
+Thu May 22 22:35:28 Saved as file BACKUP1.MAX
+Thu May 22 22:45:28 Saved as file BACKUP1.MAX
+Thu May 22 22:55:28 Saved as file BACKUP1.MAX
+Thu May 22 23:05:28 Saved as file BACKUP1.MAX
+Thu May 22 23:15:28 Saved as file BACKUP1.MAX
+Thu May 22 23:25:28 Saved as file BACKUP1.MAX
+Fri May 23 19:38:09 Saved as file BACKUP1.MAX
+Fri May 23 19:48:09 Saved as file BACKUP1.MAX
+Fri May 23 19:58:09 Saved as file BACKUP1.MAX
+Fri May 23 20:08:09 Saved as file BACKUP1.MAX
+Fri May 23 20:18:09 Saved as file BACKUP1.MAX
+Fri May 23 20:28:09 Saved as file BACKUP1.MAX
+Fri May 23 20:38:09 Saved as file BACKUP1.MAX
+Fri May 23 20:48:09 Saved as file BACKUP1.MAX
+Fri May 23 20:58:09 Saved as file BACKUP1.MAX
+Fri May 23 21:08:14 Saved as file BACKUP1.MAX
+Fri May 23 21:18:13 Saved as file BACKUP1.MAX
+Fri May 23 21:28:13 Saved as file BACKUP1.MAX
+Sat May 24 18:37:51 Saved as file BACKUP1.MAX
+Sat May 24 18:47:52 Saved as file BACKUP1.MAX
+Sat May 24 18:57:52 Saved as file BACKUP1.MAX
+Mon Jan 05 23:48:34 Saved as file BACKUP1.MAX
+Mon Jan 05 23:58:34 Saved as file BACKUP1.MAX
+Tue Jan 06 00:08:34 Saved as file BACKUP1.MAX
+Tue Jan 06 00:18:34 Saved as file BACKUP1.MAX
+Tue Jan 06 00:28:34 Saved as file BACKUP1.MAX
+Tue Jan 06 00:38:34 Saved as file BACKUP1.MAX
